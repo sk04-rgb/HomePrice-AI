@@ -1,0 +1,500 @@
+city,locality,area_sqft,bhk,bath,floor,age_years,price_lakhs
+hyderabad,jubilee hills,3500,5,5,2,5,1250.0
+hyderabad,banjara hills,3200,4,4,3,8,950.0
+hyderabad,gachibowli,1800,3,3,12,4,165.5
+hyderabad,kondapur,1550,3,3,8,2,115.0
+hyderabad,madhapur,1400,2,2,10,6,125.0
+hyderabad,hitech city,2200,3,3,15,3,210.0
+hyderabad,kukatpally,1200,2,2,5,10,85.5
+hyderabad,miyapur,1100,2,2,4,12,65.0
+hyderabad,manikonda,1650,3,3,6,5,98.5
+hyderabad,uppal,1000,2,2,3,15,55.0
+hyderabad,lb nagar,1300,3,2,2,20,68.0
+hyderabad,ameerpet,900,2,2,4,25,75.0
+hyderabad,begumpet,1750,3,3,5,18,140.0
+hyderabad,somajiguda,2000,3,3,7,12,185.0
+hyderabad,himayatnagar,1450,3,3,4,15,110.0
+hyderabad,nallakunta,1200,2,2,3,22,82.0
+hyderabad,tarnaka,1350,3,2,2,14,78.0
+hyderabad,dilsukhnagar,1150,2,2,4,18,62.5
+hyderabad,attapur,1500,3,3,5,7,88.0
+hyderabad,mehdipatnam,1400,3,2,3,12,92.0
+hyderabad,abids,1800,3,3,6,28,155.0
+hyderabad,kothapet,1250,2,2,5,10,72.0
+hyderabad,nagole,1100,2,2,4,8,58.0
+hyderabad,moula ali,1050,2,2,2,15,48.0
+hyderabad,ecil,1400,3,3,3,12,78.5
+hyderabad,sainikpuri,2500,4,4,2,10,175.0
+hyderabad,as rao nagar,1800,3,3,4,15,115.0
+hyderabad,alwal,1300,3,2,2,18,65.0
+hyderabad,kompally,2400,4,4,2,5,160.0
+hyderabad,bowenpally,1500,3,3,3,20,95.0
+hyderabad,nizampet,1450,3,3,12,4,82.5
+hyderabad,bachupally,1350,3,2,10,2,68.0
+hyderabad,beeramguda,1200,2,2,5,3,52.0
+hyderabad,tellapur,2800,4,4,15,1,240.0
+hyderabad,narsingi,2100,3,3,18,2,175.0
+hyderabad,kokapet,3200,4,4,25,1,450.0
+hyderabad,puppalguda,1700,3,3,14,3,135.0
+hyderabad,nallagandla,1900,3,3,20,4,155.0
+hyderabad,lingampally,1100,2,2,5,15,58.0
+hyderabad,chandanagar,1300,3,2,6,12,74.0
+hyderabad,hafeezpet,1250,2,2,8,7,85.0
+hyderabad,moosapet,1000,2,1,4,18,52.0
+hyderabad,balanagar,950,2,2,3,25,48.0
+hyderabad,jeedimetla,1200,2,2,4,20,55.0
+hyderabad,shaikpet,2300,4,4,15,6,225.0
+hyderabad,tolichowki,1600,3,3,5,14,105.0
+hyderabad,nanakramguda,2600,4,4,30,2,310.0
+hyderabad,financial district,2000,3,3,35,3,260.0
+hyderabad,gachibowli,900,1,1,12,5,78.0
+hyderabad,kondapur,1200,2,2,10,8,92.0
+hyderabad,madhapur,1850,3,3,14,4,168.0
+hyderabad,kukatpally,2200,4,4,10,12,145.0
+hyderabad,jubilee hills,4000,6,6,3,10,1800.0
+hyderabad,banjara hills,3800,5,6,4,12,1450.0
+hyderabad,sr nagar,1100,2,2,4,22,78.0
+hyderabad,yousufguda,1050,2,2,5,15,72.0
+hyderabad,borabanda,800,2,1,3,20,42.0
+hyderabad,moti nagar,1350,3,3,6,10,88.0
+hyderabad,erragadda,1100,2,2,4,25,58.0
+hyderabad,sanath nagar,1250,2,2,5,20,72.0
+hyderabad,punjagutta,1600,3,3,8,15,155.0
+hyderabad,khairatabad,1400,3,2,6,22,115.0
+hyderabad,lakdikapul,1300,2,2,5,30,98.0
+hyderabad,koti,1100,2,2,3,30,85.0
+hyderabad,malakpet,1500,3,3,4,20,88.0
+hyderabad,saidabad,1400,3,2,3,18,78.0
+hyderabad,santosh nagar,1200,2,2,2,25,62.0
+hyderabad,chandrayangutta,1300,3,3,2,28,55.0
+hyderabad,falaknuma,1500,3,2,2,30,65.0
+hyderabad,charminar,1000,2,1,2,30,52.0
+hyderabad,bahadurpura,1100,2,2,2,25,48.0
+hyderabad,uppuguda,950,2,1,2,22,42.0
+hyderabad,yakutpura,1050,2,2,2,28,45.0
+hyderabad,amberpet,1250,3,2,4,18,72.0
+hyderabad,kachiguda,1150,2,2,5,25,82.0
+hyderabad,vidyanagar,1400,3,3,4,15,98.0
+hyderabad,musheerabad,1200,2,2,5,22,78.0
+hyderabad,chikkadpally,1350,3,3,6,20,105.0
+hyderabad,hyderguda,1700,3,3,8,12,145.0
+hyderabad,basheerbagh,1900,3,3,10,25,185.0
+hyderabad,narayanaguda,1500,3,3,6,18,125.0
+hyderabad,domalguda,1400,2,2,5,15,110.0
+hyderabad,ghasmandi,800,2,1,2,30,45.0
+hyderabad,secunderabad,1600,3,3,4,25,130.0
+hyderabad,marredpally,2200,4,4,3,15,210.0
+hyderabad,karkhana,1800,3,3,4,10,145.0
+hyderabad,trimulgherry,2000,4,3,2,12,135.0
+hyderabad,safilguda,1200,2,2,3,18,62.0
+hyderabad,neredmet,1300,3,2,3,15,68.0
+hyderabad,kapra,1600,3,3,4,8,88.0
+hyderabad,cherlapally,1100,2,1,2,12,45.0
+hyderabad,boduppal,1250,2,2,5,5,58.0
+hyderabad,peerzadiguda,1350,3,2,6,4,68.0
+hyderabad,medipally,1450,3,3,5,6,75.0
+hyderabad,chengicherla,1200,2,2,4,3,52.0
+hyderabad,pocharam,1100,2,1,10,2,48.0
+hyderabad,ghatkesar,1500,3,3,2,10,55.0
+hyderabad,hayathnagar,1300,3,2,2,12,62.0
+hyderabad,vanasthalipuram,1400,3,3,3,15,75.0
+hyderabad,autonagar,1200,2,2,3,20,58.0
+hyderabad,mansoorabad,1350,3,2,4,10,68.0
+hyderabad,saroornagar,1450,3,3,5,15,82.0
+hyderabad,rk puram,1200,2,2,3,18,65.0
+hyderabad,bn reddy nagar,1500,3,3,4,8,78.0
+hyderabad,badangpet,1350,3,2,3,5,62.0
+hyderabad,meerpet,1250,2,2,4,10,55.0
+hyderabad,balapur,1100,2,1,3,12,45.0
+hyderabad,pahadi shareef,1400,3,3,2,15,52.0
+hyderabad,shamshabad,2500,4,4,2,8,135.0
+hyderabad,rajendranagar,1800,3,3,4,10,95.0
+hyderabad,budvel,1500,3,2,2,5,72.0
+hyderabad,bandlaguda jagir,1750,3,3,5,4,105.0
+hyderabad,kismatpur,2200,4,4,2,3,145.0
+hyderabad,gandipet,3500,5,5,2,2,380.0
+hyderabad,shankarpally,3000,4,4,2,0,180.0
+hyderabad,mokila,3200,4,4,2,1,210.0
+hyderabad,osman nagar,2400,4,4,15,2,165.0
+hyderabad,vattinagulapally,2600,4,4,20,1,220.0
+hyderabad,gowlidoddy,1550,3,3,12,4,115.0
+hyderabad,narsingi,1850,3,3,15,3,148.0
+hyderabad,kokapet,2800,3,3,30,2,350.0
+hyderabad,manikonda,1400,2,2,5,8,82.0
+hyderabad,puppets guda,1600,3,2,10,5,110.0
+hyderabad,khajaguda,2100,3,3,22,2,195.0
+hyderabad,rai durg,1800,3,3,18,6,170.0
+hyderabad,kondapur,800,1,1,10,10,65.0
+hyderabad,hafeezpet,1100,2,2,12,5,75.0
+hyderabad,miapur,1450,3,3,5,10,72.0
+hyderabad,hydernagar,1350,3,2,8,12,78.0
+hyderabad,nizampet,1600,3,3,14,3,88.0
+hyderabad,pragathi nagar,1200,2,2,5,8,62.0
+hyderabad,jntu,1100,2,2,4,15,75.0
+hyderabad,kphb,1500,3,3,6,12,98.0
+hyderabad,kukatpally,2500,4,4,10,18,165.0
+hyderabad,vivekananda nagar,1300,2,2,5,15,78.0
+hyderabad,bagh ameer,1000,2,1,4,22,55.0
+hyderabad,moosapet,1200,2,2,8,10,68.0
+hyderabad,idpl,1100,2,2,3,25,48.0
+hyderabad,chintal,1250,3,2,3,20,52.0
+hyderabad,shapur nagar,1150,2,2,2,25,42.0
+hyderabad,suraram,1050,2,1,2,18,38.0
+hyderabad,gajularamaram,1400,3,3,5,5,68.0
+hyderabad,quthbullapur,1300,3,2,4,12,62.0
+hyderabad,kompally,2800,4,4,3,6,185.0
+hyderabad,dhulapally,2000,3,3,2,8,95.0
+hyderabad,gundlapochampally,2600,4,4,2,3,165.0
+hyderabad,medchal,2200,3,3,2,10,88.0
+hyderabad,shamirpet,3000,4,4,2,5,145.0
+hyderabad,hakimpet,1800,3,2,3,15,82.0
+hyderabad,bolarum,1500,3,3,3,18,72.0
+hyderabad,yapral,2400,4,4,2,12,155.0
+hyderabad,kowkoor,1600,3,3,3,8,78.0
+hyderabad,jawaharnagar,1200,2,2,2,10,42.0
+hyderabad,dammaiguda,1350,3,2,3,6,58.0
+hyderabad,nagaram,1450,3,3,4,5,65.0
+hyderabad,kushaiguda,1250,2,2,3,20,55.0
+hyderabad,cherlapally,1000,2,1,2,22,38.0
+hyderabad,mallapur,1150,2,2,4,18,48.0
+hyderabad,nacharam,1300,3,2,5,20,68.0
+hyderabad,habsiguda,1600,3,3,5,15,115.0
+hyderabad,raman thapur,1200,2,2,4,18,65.0
+hyderabad,uppal,1800,3,3,6,10,92.0
+hyderabad,tarnaka,2000,4,3,5,25,135.0
+hyderabad,osmania university,1500,3,2,3,30,88.0
+hyderabad,dd colony,1700,3,3,4,28,125.0
+hyderabad,shivam road,1400,3,3,5,22,105.0
+hyderabad,tilak nagar,1200,2,2,4,25,82.0
+hyderabad,barkatpura,1350,3,2,6,28,98.0
+hyderabad,koti,900,2,1,3,30,72.0
+hyderabad,bank street,1100,2,2,4,30,88.0
+hyderabad,sultan bazar,1000,2,2,3,30,75.0
+hyderabad,moazzam jahi market,1200,2,2,4,30,82.0
+hyderabad,nampally,1300,3,2,5,28,88.0
+hyderabad,mallepally,1100,2,2,3,25,65.0
+hyderabad,asif nagar,1250,3,2,2,22,68.0
+hyderabad,vijaynagar colony,1400,3,3,4,20,95.0
+hyderabad,masab tank,1600,3,3,6,22,145.0
+hyderabad,banjara hills,1200,2,2,5,25,110.0
+hyderabad,jubilee hills,2500,4,4,4,20,450.0
+hyderabad,film nagar,2800,4,4,5,15,380.0
+hyderabad,yousufguda,1200,2,2,4,18,85.0
+hyderabad,krishna nagar,900,2,1,3,22,62.0
+hyderabad,venkatagiri,1100,2,2,4,25,78.0
+hyderabad,rahmath nagar,1000,2,2,3,20,55.0
+hyderabad,madhapur,1100,2,2,10,12,105.0
+hyderabad,kavuri hills,2200,4,4,5,18,210.0
+hyderabad,gayatri hills,2600,4,4,4,12,285.0
+hyderabad,nandagiri hills,3500,5,5,3,10,850.0
+hyderabad,mla colony,3000,4,4,3,15,650.0
+hyderabad,lotus pond,3200,4,4,4,8,750.0
+hyderabad,punjagutta,1300,2,2,6,28,115.0
+hyderabad,irrum manzil,1500,3,3,5,25,125.0
+hyderabad,somajiguda,1800,3,3,8,20,165.0
+hyderabad,raj bhavan road,2100,4,4,6,22,195.0
+hyderabad,khairatabad,1200,2,2,5,28,92.0
+hyderabad,lakdikapul,1400,3,2,6,30,105.0
+hyderabad,saifabad,1600,3,3,5,25,135.0
+hyderabad,red hills,1500,3,2,4,28,115.0
+hyderabad,ac guards,1100,2,1,3,30,68.0
+hyderabad,bazar ghat,1200,2,2,4,25,72.0
+hyderabad,goshamahal,1300,3,3,3,30,95.0
+hyderabad,begum bazar,1000,2,2,2,30,88.0
+hyderabad,afzal gunj,1100,2,1,3,30,78.0
+hyderabad,purani haveli,1250,3,2,2,30,65.0
+hyderabad,darulshifa,1400,3,3,2,30,72.0
+hyderabad,noorkhan bazar,1200,2,2,2,30,55.0
+hyderabad,chaderghat,1350,3,2,3,25,78.0
+hyderabad,kachiguda,1450,3,3,6,20,105.0
+hyderabad,nimboliadda,1100,2,2,4,22,68.0
+hyderabad,golnaka,1200,2,2,3,20,62.0
+hyderabad,azampura,1300,3,2,2,25,58.0
+hyderabad,musarambagh,1400,3,3,5,15,82.0
+hyderabad,malakpet,1100,2,2,4,25,75.0
+hyderabad,saleem nagar,1250,2,2,3,22,68.0
+hyderabad,moosarambagh,1500,3,3,5,12,95.0
+hyderabad,kothapet,1600,3,3,6,8,110.0
+hyderabad,dilsukhnagar,1400,3,2,5,22,88.0
+hyderabad,p&t colony,1300,3,2,4,15,78.0
+hyderabad,gadannaram,1200,2,2,3,18,65.0
+hyderabad,vaishali nagar,1500,3,3,4,10,82.0
+hyderabad,sagar enclave,1650,3,3,5,6,98.0
+hyderabad,lb nagar,1800,3,3,4,12,110.0
+hyderabad,nagole,1350,3,2,5,5,75.0
+hyderabad,bandlaguda,1450,3,3,4,8,68.0
+hyderabad,bn reddy nagar,1600,3,3,3,10,85.0
+hyderabad,hastinapuram,1500,3,2,2,12,72.0
+hyderabad,ngo colony,1400,3,3,3,15,78.0
+hyderabad,vanasthalipuram,1200,2,2,2,20,65.0
+hyderabad,hayathnagar,1300,3,2,2,10,62.0
+hyderabad,pedda amberpet,1500,3,3,2,5,55.0
+hyderabad,abdullapurmet,1200,2,2,2,3,42.0
+hyderabad,uppal,1400,3,2,5,15,72.0
+hyderabad,boduppal,1300,3,2,4,8,65.0
+hyderabad,peerzadiguda,1200,2,2,5,6,58.0
+hyderabad,medipally,1500,3,3,5,5,78.0
+hyderabad,canara nagar,1100,2,2,3,12,48.0
+hyderabad,tarnaka,1600,3,3,4,20,115.0
+hyderabad,lalaguda,1200,2,1,3,25,55.0
+hyderabad,moula ali,1300,3,2,2,18,62.0
+hyderabad,ecil,1500,3,3,4,14,88.0
+hyderabad,kamala nagar,1250,2,2,3,10,72.0
+hyderabad,as rao nagar,2200,4,4,3,15,165.0
+hyderabad,sainikpuri,2800,4,4,2,8,220.0
+hyderabad,vayu puri,2400,4,4,2,12,185.0
+hyderabad,defence colony,2600,4,4,2,10,210.0
+hyderabad,jj nagar,1800,3,3,2,15,125.0
+hyderabad,neredmet,1200,2,2,3,20,65.0
+hyderabad,rk puram,1400,3,2,3,18,78.0
+hyderabad,safilguda,1300,3,2,4,22,72.0
+hyderabad,anand nagar,1100,2,2,3,25,58.0
+hyderabad,malkajgiri,1250,2,2,4,20,68.0
+hyderabad,vinayak nagar,1050,2,1,3,15,52.0
+hyderabad,moula ali hill,1500,3,3,2,12,75.0
+hyderabad,nacharam,1400,3,2,5,18,72.0
+hyderabad,habsiguda,1800,3,3,6,12,125.0
+hyderabad,street no 8,1600,3,3,5,15,110.0
+hyderabad,raman thapur,1300,3,2,4,10,75.0
+hyderabad,uppal huda colony,1500,3,3,5,8,88.0
+hyderabad,nagole road,1400,3,2,4,12,78.0
+hyderabad,kothapet road,1600,3,3,6,5,115.0
+hyderabad,moosarambagh,1300,2,2,5,18,85.0
+hyderabad,malakpet extension,1450,3,2,4,20,92.0
+hyderabad,kachiguda station road,1200,2,2,5,28,88.0
+hyderabad,himayat nagar road,1800,3,3,8,12,165.0
+hyderabad,narayanaguda,1350,2,2,6,22,105.0
+hyderabad,hyderguda main road,1700,3,3,10,15,155.0
+hyderabad,abids road,2000,3,3,5,30,195.0
+hyderabad,nampally road,1400,3,2,4,30,115.0
+hyderabad,red hills,1600,3,3,5,25,125.0
+hyderabad,lakdikapul,1300,2,2,6,30,108.0
+hyderabad,khairatabad,1500,3,3,5,28,125.0
+hyderabad,somajiguda circle,1900,3,3,10,15,210.0
+hyderabad,punjagutta road,1450,3,2,7,25,135.0
+hyderabad,ameerpet cross road,1100,2,2,5,22,88.0
+hyderabad,sr nagar colony,1300,3,2,4,20,95.0
+hyderabad,sanath nagar road,1250,2,2,5,18,82.0
+hyderabad,erragadda main road,1150,2,2,4,22,65.0
+hyderabad,moosapet x roads,1200,2,2,6,15,72.0
+hyderabad,kukatpally housing board,1600,3,3,8,12,115.0
+hyderabad,kphb phase 1,1400,3,2,10,10,105.0
+hyderabad,kphb phase 3,1800,3,3,12,8,135.0
+hyderabad,kphb phase 6,2200,4,4,15,5,175.0
+hyderabad,kphb phase 9,1500,3,3,18,3,125.0
+hyderabad,nizampet road,1450,3,3,10,5,85.0
+hyderabad,hydernagar,1300,2,2,12,8,78.0
+hyderabad,miyapur x roads,1200,2,2,5,15,65.0
+hyderabad,chandanagar,1400,3,2,6,12,78.0
+hyderabad,lingampally station road,1150,2,2,4,20,58.0
+hyderabad,bhel,1600,3,3,3,25,82.0
+hyderabad,beeramguda,1350,3,2,4,5,55.0
+hyderabad,rc puram,1200,2,2,3,28,48.0
+hyderabad,tellapur road,3000,4,4,15,1,280.0
+hyderabad,nallagandla road,2200,3,3,20,2,195.0
+hyderabad,gopanpally,1800,3,3,12,4,135.0
+hyderabad,vattinagulapally,2500,4,4,10,2,210.0
+hyderabad,kokapet seztowers,3500,4,4,30,1,550.0
+hyderabad,financial district,2400,3,3,35,2,320.0
+hyderabad,nanakramguda junction,2100,3,3,25,3,265.0
+hyderabad,rai durg road,1900,3,3,20,5,225.0
+hyderabad,madhapur inorbit mall,1800,3,3,15,8,250.0
+hyderabad,kondapur hitech road,1600,3,2,12,6,145.0
+hyderabad,gachibowli dlf road,1450,3,3,18,5,155.0
+hyderabad,gachibowli stadium road,1700,3,3,12,7,165.0
+hyderabad,manikonda lanco hills,2200,3,3,25,4,240.0
+hyderabad,manikonda ou colony,1550,3,2,5,10,95.0
+hyderabad,puppalguda road,1650,3,3,12,3,115.0
+hyderabad,narsingi junction,1900,3,3,18,2,165.0
+hyderabad,shaikpet main road,2000,3,3,15,5,195.0
+hyderabad,tolichowki road,1500,3,2,5,12,110.0
+hyderabad,mehdipatnam circle,1400,3,3,4,18,98.0
+hyderabad,attapur pillar 100,1600,3,3,5,8,95.0
+hyderabad,upperpally,1450,3,2,4,10,85.0
+hyderabad,hyder shah kote,1700,3,3,5,6,92.0
+hyderabad,bandlaguda jagir,1850,3,3,12,4,115.0
+hyderabad,kismatpur road,2400,4,4,2,5,165.0
+hyderabad,gandipet lake view,3800,5,5,2,3,450.0
+hyderabad,osman nagar road,2600,4,4,15,2,210.0
+hyderabad,tellapur gate,2800,4,4,12,2,225.0
+hyderabad,kollur road,3200,4,4,15,1,245.0
+hyderabad,nagulapally,2200,3,3,10,3,145.0
+hyderabad,shankarpally road,3000,4,4,2,0,165.0
+hyderabad,patancheru,1500,3,3,5,5,68.0
+hyderabad,isnapuri,1200,2,2,4,4,48.0
+hyderabad,rudraram,1350,3,2,3,2,52.0
+hyderabad,sangareddy,1800,3,3,2,10,65.0
+hyderabad,muthangi,1450,3,3,5,1,58.0
+hyderabad,mokila villa road,3500,5,5,2,0,295.0
+hyderabad,shaikpet mountain heights,2600,4,4,25,3,350.0
+hyderabad,banjara hills road no 1,2200,3,3,8,12,285.0
+hyderabad,banjara hills road no 12,3000,4,4,10,15,550.0
+hyderabad,jubilee hills road no 36,3500,4,5,5,10,950.0
+hyderabad,jubilee hills road no 45,3800,5,5,4,12,1100.0
+hyderabad,film nagar hills,2400,3,3,6,8,320.0
+hyderabad,somajiguda kapadia lane,1800,3,3,7,20,185.0
+hyderabad,begumpet sp road,1600,3,3,8,22,155.0
+hyderabad,secunderabad station road,1200,2,2,4,30,92.0
+hyderabad,marredpally east,2000,3,3,4,18,195.0
+hyderabad,marredpally west,2300,4,4,3,20,245.0
+hyderabad,karkhana main road,1700,3,2,5,12,135.0
+hyderabad,trimulgherry x road,1900,4,3,2,15,125.0
+hyderabad,bowenpally dairy farm,1500,3,3,3,18,88.0
+hyderabad,alwal hills,1600,3,3,2,10,78.0
+hyderabad,kompally highway,2500,4,4,3,4,175.0
+hyderabad,gundlapochampally gate,2800,4,4,2,2,185.0
+hyderabad,suchitra junction,1400,3,2,8,5,82.0
+hyderabad,jeedimetla industrial area,1100,2,1,2,25,42.0
+hyderabad,shapur nagar main road,1200,2,2,3,28,45.0
+hyderabad,chintal road,1300,3,2,4,20,55.0
+hyderabad,balanagar x roads,1000,2,2,5,30,58.0
+hyderabad,fathullahguda,1400,3,3,5,4,72.0
+hyderabad,nagole bandlaguda,1550,3,3,6,6,85.0
+hyderabad,rk puram dilsukhnagar,1250,2,2,4,18,68.0
+hyderabad,kothapet gsm mall,1650,3,3,8,5,115.0
+hyderabad,lb nagar x roads,1450,3,2,10,12,95.0
+hyderabad,hastinapuram north,1500,3,3,3,8,75.0
+hyderabad,saroornagar huil,1350,3,2,4,15,78.0
+hyderabad,vanasthalipuram colony,1200,2,2,3,20,62.0
+hyderabad,tarnaka street no 1,1800,3,3,5,18,125.0
+hyderabad,nacharam road,1300,3,2,4,22,68.0
+hyderabad,habsiguda main road,1700,3,3,6,12,135.0
+hyderabad,ecil x road,1500,3,3,5,15,88.0
+hyderabad,as rao nagar main,1900,3,3,4,10,145.0
+hyderabad,sainikpuri avenue,3000,4,4,2,5,285.0
+hyderabad,yapral road,2500,4,4,3,8,165.0
+hyderabad,kowkoor road,1800,3,3,2,12,85.0
+hyderabad,kompally green park,2600,4,4,3,2,195.0
+hyderabad,nizampet village,1400,3,2,4,10,72.0
+hyderabad,bachupally dps,1550,3,3,10,3,82.0
+hyderabad,mallampet,1350,3,2,5,2,58.0
+hyderabad,miyapur metro,1200,2,2,12,6,85.0
+hyderabad,kukatpally metro,1100,2,2,15,8,95.0
+hyderabad,sr nagar metro,1000,2,2,10,15,88.0
+hyderabad,ameerpet metro,1150,2,2,12,20,105.0
+hyderabad,punjagutta metro,1350,2,2,15,25,145.0
+hyderabad,khairatabad metro,1250,2,2,14,28,115.0
+hyderabad,nampally metro,1100,2,2,10,30,85.0
+hyderabad,charminar road,1500,3,3,2,30,78.0
+hyderabad,himayatnagar main road,1900,3,3,8,15,175.0
+hyderabad,kachiguda market,1200,2,2,4,30,82.0
+hyderabad,uppal metro,1300,3,2,10,5,78.0
+hyderabad,nagole metro,1400,3,3,12,4,88.0
+hyderabad,lb nagar metro,1500,3,3,15,6,105.0
+hyderabad,madhapur metro,1600,3,3,20,5,195.0
+hyderabad,hitech city metro,1800,3,3,25,4,245.0
+hyderabad,gachibowli circle,2200,3,3,30,5,285.0
+hyderabad,financial district west,2600,4,4,40,2,350.0
+hyderabad,nanakramguda golf view,3000,4,4,35,3,480.0
+hyderabad,manikonda huda colony,1750,3,3,5,8,110.0
+hyderabad,puppalguda lake view,1900,3,3,12,2,155.0
+hyderabad,narsingi road east,2100,3,3,15,1,185.0
+hyderabad,kokapet tower view,3200,4,4,40,0,520.0
+hyderabad,shaikpet fort view,2500,4,4,20,5,280.0
+hyderabad,banjara hills park,2800,4,4,5,18,420.0
+hyderabad,jubilee hills ridge road,3600,5,5,3,12,1250.0
+hyderabad,begumpet airport rd,1700,3,3,8,20,165.0
+hyderabad,somajiguda hospital road,1550,3,2,10,25,155.0
+hyderabad,abids station road,1300,2,2,5,30,115.0
+hyderabad,koti market rd,1100,2,1,4,30,85.0
+hyderabad,malakpet gunj,1500,3,3,4,28,95.0
+hyderabad,dilsukhnagar market road,1400,3,2,5,25,82.0
+hyderabad,lb nagar ring road,1800,3,3,12,10,125.0
+hyderabad,uppal ring road,1600,3,3,10,12,105.0
+hyderabad,ecil company road,1450,3,3,4,15,88.0
+hyderabad,sainikpuri lake road,2700,4,4,2,8,210.0
+hyderabad,kompally bypass,2400,4,4,3,5,165.0
+hyderabad,bachupally road west,1500,3,3,12,3,78.0
+hyderabad,miyapur calm,1300,3,2,5,10,72.0
+hyderabad,kukatpally quiet,1250,2,2,6,12,85.0
+hyderabad,sr nagar quiet,1100,2,2,5,20,78.0
+hyderabad,madhapur quiet,1400,2,2,10,8,135.0
+hyderabad,gachibowli quiet,1700,3,3,15,6,175.0
+hyderabad,kondapur quiet,1550,3,3,12,4,145.0
+hyderabad,manikonda quiet,1600,3,3,8,5,115.0
+hyderabad,narsingi quiet,1900,3,3,15,2,165.0
+hyderabad,tellapur quiet,2900,4,4,15,1,265.0
+hyderabad,nallagandla quiet,2100,3,3,20,3,185.0
+hyderabad,gowlidoddy quiet,1500,3,3,12,5,125.0
+hyderabad, financial district road,2200,3,3,35,2,295.0
+hyderabad,nanakramguda quiet,2500,4,4,30,3,325.0
+hyderabad,shaikpet quiet,2300,4,4,20,5,265.0
+hyderabad,tolichowki quiet,1700,3,3,8,12,125.0
+hyderabad,mehdipatnam quiet,1500,3,2,5,18,105.0
+hyderabad,attapur quiet,1600,3,3,6,10,115.0
+hyderabad,kothapet quiet,1400,3,2,5,12,98.0
+hyderabad,nagole quiet,1200,2,2,4,15,82.0
+hyderabad,uppal quiet,1350,3,2,5,10,88.0
+hyderabad,tarnaka quiet,1500,3,3,4,22,115.0
+hyderabad,himayatnagar quiet,1800,3,3,6,18,185.0
+hyderabad,kachiguda quiet,1250,2,2,5,25,95.0
+hyderabad,begumpet quiet,1700,3,3,6,22,165.0
+hyderabad,marredpally quiet,2100,3,3,4,20,225.0
+hyderabad,bowenpally quiet,1600,3,3,3,15,115.0
+hyderabad,alwal quiet,1450,3,2,3,18,88.0
+hyderabad,kompally quiet,2300,4,4,3,10,175.0
+hyderabad,nizampet quiet,1500,3,3,12,6,85.0
+hyderabad,bachupally quiet,1450,3,2,10,4,78.0
+hyderabad,miyapur colony quiet,1250,2,2,5,12,72.0
+hyderabad,madhapur colony quiet,1500,3,3,10,10,145.0
+hyderabad,kondapur colony quiet,1650,3,3,8,8,155.0
+hyderabad,gachibowli colony quiet,1850,3,3,12,6,185.0
+hyderabad,hitech city quiet,2000,3,3,15,4,225.0
+hyderabad,nanakramguda colony quiet,2400,4,4,25,3,310.0
+hyderabad,financial district colony quiet,2700,4,4,30,2,385.0
+hyderabad,manikonda colony quiet,1700,3,3,8,12,125.0
+hyderabad,narsingi colony quiet,2000,3,3,12,4,175.0
+hyderabad,tellapur colony quiet,3100,4,4,10,1,310.0
+hyderabad,nallagandla colony quiet,2200,3,3,15,3,210.0
+hyderabad,jubilee hills quiet,3700,5,5,3,15,1350.0
+hyderabad,banjara hills quiet,3400,5,5,4,18,1100.0
+hyderabad,film nagar quiet,2700,4,4,5,12,420.0
+hyderabad,somajiguda quiet,1900,3,3,7,22,210.0
+hyderabad,begumpet quiet,1600,3,3,6,25,175.0
+hyderabad,ameerpet quiet,1200,2,2,5,28,105.0
+hyderabad,sr nagar quiet,1150,2,2,4,30,95.0
+hyderabad,yousufguda quiet,1100,2,2,5,25,88.0
+hyderabad,santosh nagar quiet,1300,3,2,3,25,72.0
+hyderabad,malakpet quiet,1500,3,3,4,20,98.0
+hyderabad,dilsukhnagar quiet,1450,3,2,5,22,85.0
+hyderabad,kothapet quiet,1550,3,3,6,15,115.0
+hyderabad,lb nagar quiet,1700,3,3,5,12,125.0
+hyderabad,nagole quiet,1300,3,2,4,15,85.0
+hyderabad,uppal quiet,1450,3,3,6,10,95.0
+hyderabad,boduppal quiet,1350,3,2,5,8,75.0
+hyderabad,medipally quiet,1550,3,3,5,6,85.0
+hyderabad,ecil quiet,1600,3,3,4,12,98.0
+hyderabad,as rao nagar quiet,2000,3,3,3,15,155.0
+hyderabad,sainikpuri quiet,2900,4,4,2,10,245.0
+hyderabad,kapra quiet,1700,3,3,4,12,110.0
+hyderabad,neredmet quiet,1400,3,2,3,18,85.0
+hyderabad,safilguda quiet,1350,3,2,4,22,78.0
+hyderabad,alwal quiet,1500,3,3,2,20,88.0
+hyderabad,kompally quiet,2400,4,4,3,8,185.0
+hyderabad,nizampet quiet,1600,3,3,12,5,92.0
+hyderabad,bachupally quiet,1500,3,3,10,3,82.0
+hyderabad,tellapur quiet,3200,4,4,15,1,320.0
+hyderabad,nallagandla quiet,2300,3,3,18,2,225.0
+hyderabad,manikonda quiet,1750,3,3,8,6,135.0
+hyderabad,narsingi quiet,2100,3,3,15,2,195.0
+hyderabad,puppalguda quiet,1800,3,3,12,4,145.0
+hyderabad,financial district quiet,2500,3,3,35,3,345.0
+hyderabad,nanakramguda quiet,2800,4,4,30,2,395.0
+hyderabad,madhapur quiet,1600,3,3,15,12,185.0
+hyderabad,kondapur quiet,1700,3,3,12,10,175.0
+hyderabad,gachibowli quiet,2100,3,3,20,8,225.0
+hyderabad,hitech city quiet,2300,3,3,25,6,285.0
+hyderabad,shaikpet quiet,2700,4,4,30,4,395.0
+hyderabad,jubilee hills quiet,3900,6,6,4,12,1650.0
+hyderabad,banjara hills quiet,3700,5,5,5,15,1450.0
+hyderabad,sr nagar quiet,1250,3,2,5,25,115.0
+hyderabad,ameerpet quiet,1300,3,3,6,28,125.0
+hyderabad,somajiguda quiet,2000,3,3,8,22,245.0
+hyderabad,begumpet quiet,1800,3,3,7,20,195.0
+hyderabad,himayatnagar quiet,1950,4,4,6,15,225.0
+hyderabad,marredpally quiet,2200,4,4,4,18,265.0
+hyderabad,secunderabad quiet,1700,3,3,5,25,155.0
+hyderabad,karkhana quiet,1900,3,3,4,15,185.0
+hyderabad,trimulgherry quiet,2100,4,4,3,12,215.0
+hyderabad,bowenpally quiet,1700,3,3,4,20,135.0
+hyderabad,alwal quiet,1550,3,2,3,22,105.0

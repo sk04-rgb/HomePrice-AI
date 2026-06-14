@@ -1,0 +1,667 @@
+city,locality,area_sqft,bhk,bath,floor,age_years,price_lakhs
+mumbai,bandra west,1200,3,3,12,5,450.5
+mumbai,andheri east,650,1,1,4,10,135.2
+mumbai,powai,950,2,2,18,3,240.0
+mumbai,worli,2200,4,4,25,2,1100.0
+mumbai,borivali west,750,2,2,7,12,165.5
+mumbai,juhu,1800,3,3,4,8,750.0
+mumbai,chembur,1100,2,2,11,15,210.0
+mumbai,malad west,850,2,2,14,6,185.0
+mumbai,dadar,1300,3,3,9,20,380.0
+mumbai,kandivali east,700,1,1,20,4,145.5
+mumbai,colaba,1500,3,2,3,25,850.0
+mumbai,vikhroli,600,1,1,16,2,115.0
+mumbai,lower parel,1400,3,3,30,5,520.0
+mumbai,mulund west,1050,2,2,12,7,195.0
+mumbai,santacruz west,1600,3,3,6,12,580.0
+mumbai,goregaon east,900,2,2,22,4,210.0
+mumbai,mahim,800,2,1,5,18,230.0
+mumbai,khar west,1700,3,3,8,10,690.0
+mumbai,ghatkopar east,750,2,2,10,14,170.0
+mumbai,wadala,1250,3,2,15,6,310.0
+mumbai,prabhadevi,2100,4,4,35,3,980.0
+mumbai,dahisar,550,1,1,8,11,95.0
+mumbai,kurla west,650,2,1,5,15,120.0
+mumbai,vile parle east,1150,2,2,6,9,285.0
+mumbai,bhandup west,780,2,2,14,5,140.0
+mumbai,tardeo,2500,4,5,28,7,1450.0
+mumbai,byculla,1350,3,3,19,4,360.0
+mumbai,matunga,1000,2,2,7,22,320.0
+mumbai,mira road,600,1,1,12,8,75.0
+mumbai,mazgaon,950,2,2,10,18,190.0
+mumbai,bandra east,1400,3,3,15,6,420.0
+mumbai,andheri west,1100,2,2,12,12,310.0
+mumbai,sion,850,2,2,9,20,205.0
+mumbai,kalyan,750,2,2,4,10,65.0
+mumbai,dombivli,550,1,1,6,15,45.0
+mumbai,worli sea face,3200,5,5,38,1,2200.0
+mumbai,kandivali west,920,2,2,14,10,175.0
+mumbai,parel,1200,3,3,24,5,405.0
+mumbai,cuffe parade,2800,5,6,22,28,1800.0
+mumbai,tilak nagar,580,1,1,7,12,110.0
+mumbai,lokhandwala,1650,3,3,15,14,550.0
+mumbai,bkc,2400,4,4,10,5,1250.0
+mumbai,jogeshwari west,820,2,2,18,8,160.0
+mumbai,dahisar east,680,2,1,11,13,105.0
+mumbai,mankhurd,450,1,1,3,25,65.0
+mumbai,govandi,720,2,2,8,14,125.0
+mumbai,sewri,1100,2,2,28,4,290.0
+mumbai,versova,1550,3,3,11,18,620.0
+mumbai,breach candy,3500,5,6,12,25,2800.0
+mumbai,peddar road,2600,4,4,15,22,1950.0
+mumbai,marine drive,2000,3,3,4,30,1500.0
+mumbai,malabar hill,3800,6,6,10,20,4200.0
+mumbai,nepean sea road,3300,5,5,18,15,3500.0
+mumbai,altamount road,4000,6,7,25,10,5500.0
+mumbai,carmichael road,2900,4,4,8,25,2400.0
+mumbai,kemps corner,1800,3,3,14,22,880.0
+mumbai,haji ali,1400,2,2,20,15,650.0
+mumbai,mahalaxmi,1600,3,3,40,2,720.0
+mumbai,grant road,900,2,2,15,25,320.0
+mumbai,mumbai central,1100,2,2,12,20,390.0
+mumbai,girgaon,750,2,1,6,30,260.0
+mumbai,kalbadevi,500,1,1,4,30,180.0
+mumbai,fort,1200,2,2,3,28,550.0
+mumbai,nariman point,1800,3,3,18,25,1400.0
+mumbai,churchgate,1600,3,3,5,28,1200.0
+mumbai,ballard estate,2200,4,4,4,30,1650.0
+mumbai,wadala east,950,2,2,15,8,210.0
+mumbai,chunabhatti,600,1,1,7,20,105.0
+mumbai,sion east,1050,3,2,10,15,260.0
+mumbai,gtb nagar,700,2,1,5,25,140.0
+mumbai,antop hill,550,1,1,12,10,95.0
+mumbai,naigaon,450,1,1,4,15,55.0
+mumbai,lower parel east,1300,3,3,35,3,480.0
+mumbai,chinchpokli,650,1,1,9,20,145.0
+mumbai,cotton green,720,2,2,11,18,165.0
+mumbai,reay road,680,1,1,8,22,135.0
+mumbai,dockyard road,800,2,2,6,25,185.0
+mumbai,sandhurst road,750,2,2,10,28,195.0
+mumbai,masjid bunder,550,1,1,5,30,155.0
+mumbai,marine lines,1400,3,3,12,28,680.0
+mumbai,charni road,1100,2,2,14,25,520.0
+mumbai,grant road east,850,2,2,18,22,340.0
+mumbai,tardeo road,1900,3,3,25,12,950.0
+mumbai,nana chowk,1300,3,2,15,18,480.0
+mumbai,opera house,1500,3,3,8,25,620.0
+mumbai,chowpatty,2400,4,4,12,28,1850.0
+mumbai,gamdevi,1200,2,2,6,25,550.0
+mumbai,august kranti maidan,1700,3,3,10,22,820.0
+mumbai,gowalia tank,1450,3,3,9,25,710.0
+mumbai,kemps corner,2100,4,4,16,20,1150.0
+mumbai,malabar hill west,3500,5,5,12,18,3800.0
+mumbai,nepean sea,2700,4,4,20,15,2600.0
+mumbai,worli naka,1150,2,2,22,6,380.0
+mumbai,century bazaar,1650,3,3,28,8,640.0
+mumbai,doordarshan colony,900,2,2,14,15,280.0
+mumbai,podar hospital,1350,3,3,18,12,450.0
+mumbai,shivaji park,1400,3,2,4,25,650.0
+mumbai,hinduja hospital,1100,2,2,12,15,420.0
+mumbai,citylight,950,2,2,8,20,360.0
+mumbai,shitaladevi,800,2,1,6,22,290.0
+mumbai,matunga west,1200,3,2,7,18,480.0
+mumbai,ruparel college,1050,2,2,12,15,410.0
+mumbai,st xavier road,1350,3,3,9,12,520.0
+mumbai,parel tt,1100,2,2,30,5,340.0
+mumbai,elphinstone road,950,2,2,25,7,290.0
+mumbai,currey road,850,2,2,22,8,260.0
+mumbai,lalbaug,750,2,1,28,4,210.0
+mumbai,kalachowki,820,2,2,15,12,195.0
+mumbai,abhyudaya nagar,600,1,1,12,25,135.0
+mumbai,cotton green east,700,2,1,8,22,155.0
+mumbai,reay road west,650,1,1,10,25,145.0
+mumbai,byculla east,1100,2,2,20,15,280.0
+mumbai,clare road,1400,3,3,12,22,480.0
+mumbai,nagpada,850,2,2,10,25,230.0
+mumbai,agripada,1050,2,2,18,12,310.0
+mumbai,mumbai central east,900,2,2,14,20,270.0
+mumbai,kamathipura,500,1,1,5,30,110.0
+mumbai,chor bazaar,450,1,1,4,30,95.0
+mumbai,bhuleshwar,550,1,1,3,30,140.0
+mumbai,zaveri bazaar,600,1,1,4,30,180.0
+mumbai,lohar chawl,580,1,1,3,30,165.0
+mumbai,crawford market,1000,2,2,5,30,350.0
+mumbai,pydhonie,720,2,1,6,30,210.0
+mumbai,mohammad ali road,800,2,2,8,30,250.0
+mumbai,dongri,650,2,1,5,30,180.0
+mumbai,udyog nagar,1200,3,3,12,5,220.0
+mumbai,goregaon west,950,2,2,18,8,195.0
+mumbai,jawahar nagar,1050,2,2,15,12,185.0
+mumbai,motilal nagar,600,1,1,4,25,95.0
+mumbai,bangur nagar,850,2,2,12,15,165.0
+mumbai,oshiwara,1300,3,3,22,6,380.0
+mumbai,lokhandwala complex,1800,3,3,14,12,650.0
+mumbai,seven bungalows,1500,3,3,10,18,520.0
+mumbai,four bungalows,1200,2,2,8,20,390.0
+mumbai,versova beach,2200,4,4,12,10,950.0
+mumbai,yari road,1600,3,3,9,15,580.0
+mumbai,model town,1100,2,2,11,18,290.0
+mumbai,juhu scheme,2500,4,4,6,12,1200.0
+mumbai,isckon temple,2100,4,4,8,15,950.0
+mumbai,juhu tara road,1900,3,3,5,20,820.0
+mumbai,vile parle west,1300,3,2,4,22,480.0
+mumbai,irla,900,2,2,7,18,310.0
+mumbai,cooper hospital,1050,2,2,10,12,340.0
+mumbai,mithibai college,1250,3,3,6,20,420.0
+mumbai,nanavati hospital,1400,3,3,8,15,490.0
+mumbai,milan subway,750,2,1,5,25,185.0
+mumbai,santacruz east,1000,2,2,12,10,225.0
+mumbai,vakola,850,2,2,9,15,165.0
+mumbai,kalina,950,2,2,11,12,190.0
+mumbai,cst road,800,2,2,10,18,155.0
+mumbai,kurla east,720,2,1,8,20,115.0
+mumbai,nehru nagar,600,1,1,6,25,90.0
+mumbai,shell colony,780,2,2,12,12,140.0
+mumbai,chembur camp,850,2,1,5,28,150.0
+mumbai,diamond garden,1300,3,3,10,15,350.0
+mumbai,deonar,1150,2,2,14,10,240.0
+mumbai,tata colony,900,2,2,7,22,175.0
+mumbai,anushakti nagar,1050,2,2,12,18,195.0
+mumbai,mankhurd west,500,1,1,4,25,65.0
+mumbai,baiganwadi,400,1,1,2,28,45.0
+mumbai,govandi east,680,2,1,10,20,105.0
+mumbai,vikhroli east,750,2,2,15,12,135.0
+mumbai,kannawar nagar,620,1,1,8,25,95.0
+mumbai,tagore nagar,650,2,1,10,22,110.0
+mumbai,godrej colony,1200,3,3,5,30,220.0
+mumbai,kanjurmarg east,880,2,2,18,5,175.0
+mumbai,kanjurmarg west,920,2,2,22,6,190.0
+mumbai,powai hiranandani,1600,3,3,25,10,550.0
+mumbai,chandivali,1100,2,2,20,8,260.0
+mumbai,saki naka,750,2,1,10,15,130.0
+mumbai,marol,900,2,2,12,12,185.0
+mumbai,jb nagar,1050,2,2,9,20,230.0
+mumbai,chakala,1000,2,2,11,18,215.0
+mumbai,andheri kurla road,1300,3,3,15,10,320.0
+mumbai,shanti nagar,650,1,1,7,25,115.0
+mumbai,mahakali caves,950,2,2,14,15,190.0
+mumbai,sher e punjab,1150,3,2,8,22,265.0
+mumbai,tolani college,800,2,2,10,18,170.0
+mumbai,seepz,1000,2,2,12,20,195.0
+mumbai,midc,1200,3,3,15,15,280.0
+mumbai,bamanwada,600,1,1,5,25,95.0
+mumbai,sahar,850,2,2,8,22,165.0
+mumbai,airport road,1100,2,2,14,10,240.0
+mumbai,vile parle east,1350,3,3,7,25,440.0
+mumbai,paranjape scheme,1000,2,2,9,20,310.0
+mumbai,hanuman road,850,2,1,6,28,260.0
+mumbai,malad east,800,2,2,15,12,155.0
+mumbai,dindoshi,950,2,2,20,8,185.0
+mumbai,film city road,1200,3,3,22,5,290.0
+mumbai,nagari niwas,700,2,1,10,25,120.0
+mumbai,kurar village,550,1,1,8,28,85.0
+mumbai,pathanwadi,780,2,2,12,15,145.0
+mumbai,appapada,500,1,1,6,30,75.0
+mumbai,sanjay gandhi park,1100,2,2,15,10,220.0
+mumbai,borivali east,1000,2,2,18,12,210.0
+mumbai,magathane,750,2,1,12,18,135.0
+mumbai,sukalyan,820,2,2,14,15,155.0
+mumbai,carter road,2400,4,4,10,12,1250.0
+mumbai,pali hill,3000,5,5,8,15,2100.0
+mumbai,mount mary,2600,4,4,6,20,1800.0
+mumbai,bandstand,2800,4,4,12,18,2200.0
+mumbai,turner road,1800,3,3,9,15,850.0
+mumbai,linking road,1500,3,3,11,22,650.0
+mumbai,sv road bandra,1300,3,3,14,25,550.0
+mumbai,bazaar road,700,2,1,5,30,220.0
+mumbai,chuim village,900,2,2,4,28,310.0
+mumbai,sherly rajan,1100,2,2,10,20,390.0
+mumbai,rizvi complex,1250,3,3,15,12,410.0
+mumbai,carter road east,1400,3,3,18,8,580.0
+mumbai,pali hill west,3500,5,6,5,25,2800.0
+mumbai,perry road,1650,3,3,10,18,720.0
+mumbai,st andrews road,1200,2,2,7,25,480.0
+mumbai,hill road,1100,2,2,12,28,420.0
+mumbai,chappel road,850,2,1,4,30,280.0
+mumbai,waroda road,750,2,1,3,30,250.0
+mumbai,ranwar,600,1,1,2,30,190.0
+mumbai,pali naka,1350,3,3,9,15,520.0
+mumbai,almeida park,1550,3,3,11,12,610.0
+mumbai,patwardhan park,1700,3,3,10,14,680.0
+mumbai,khar danda,700,2,1,6,25,180.0
+mumbai,khar pali road,1900,3,3,12,10,850.0
+mumbai,union park,2100,4,4,8,15,1100.0
+mumbai,chuim,800,2,1,3,30,240.0
+mumbai,santacruz west station,1100,2,2,8,25,380.0
+mumbai,willingdon colony,1450,3,3,6,20,550.0
+mumbai,hiranandani gardens,2200,4,4,28,5,820.0
+mumbai,hiranandani meadows,1800,3,3,25,8,620.0
+mumbai,lh hiranandani hospital,1400,3,3,20,12,450.0
+mumbai,vicinity,1100,2,2,18,15,310.0
+mumbai,lake prinstine,1250,3,2,22,6,380.0
+mumbai,kailash complex,950,2,2,14,18,240.0
+mumbai,park site,700,2,1,10,22,145.0
+mumbai,godrej the trees,1350,3,3,25,2,480.0
+mumbai,l&t emerald isle,1500,3,3,30,4,520.0
+mumbai,nahar amrit shakti,1150,2,2,20,10,290.0
+mumbai,raheja vihar,1050,2,2,15,15,260.0
+mumbai,jal vayu vihar,1200,3,3,12,25,320.0
+mumbai,bhoiwada,650,1,1,10,28,150.0
+mumbai,naigaon cross road,800,2,1,12,25,190.0
+mumbai,hindmata,950,2,2,15,20,240.0
+mumbai,dadar tt,1300,3,3,10,25,450.0
+mumbai,hinduja park,1100,2,2,14,18,380.0
+mumbai,parsi colony,1500,3,3,5,30,750.0
+mumbai,hindu colony,1400,3,3,6,28,680.0
+mumbai,five gardens,2000,4,4,5,30,1100.0
+mumbai,ruia college,1100,2,2,8,25,420.0
+mumbai,podar college,1000,2,2,7,28,390.0
+mumbai,kings circle,1350,3,3,9,25,520.0
+mumbai,matunga station,900,2,2,10,30,320.0
+mumbai,wadala bridge,850,2,1,12,22,210.0
+mumbai,antop hill church,600,1,1,14,20,110.0
+mumbai,vikhroli park site,550,1,1,10,25,95.0
+mumbai,kanjurmarg station,820,2,2,15,12,170.0
+mumbai,mulund station,950,2,2,12,20,215.0
+mumbai,mulund colony,780,2,1,8,25,145.0
+mumbai,tata power,1050,2,2,14,18,195.0
+mumbai,nahur,1100,2,2,22,6,230.0
+mumbai,nahur east,880,2,1,18,10,175.0
+mumbai,sonapur,650,1,1,10,28,125.0
+mumbai,bhandup village,600,1,1,8,30,105.0
+mumbai,airoli,900,2,2,12,12,130.0
+mumbai,rabale,800,2,2,10,15,110.0
+mumbai,ghansoli,850,2,2,14,8,125.0
+mumbai,koparkhairane,1000,2,2,11,10,165.0
+mumbai,vashi,1300,3,3,15,15,350.0
+mumbai,sanpada,1150,2,2,18,12,290.0
+mumbai,juinagar,950,2,2,12,20,195.0
+mumbai,nerul,1200,3,2,14,18,280.0
+mumbai,seawoods,1500,3,3,20,10,480.0
+mumbai,belapur,1400,3,3,15,12,390.0
+mumbai,kharghar,1100,2,2,22,8,185.0
+mumbai,kamothe,850,2,1,12,10,95.0
+mumbai,kalamboli,800,2,2,10,12,85.0
+mumbai,panvel,1050,2,2,14,5,115.0
+mumbai,new panvel,1250,3,3,12,8,155.0
+mumbai,ulwe,900,2,2,15,4,105.0
+mumbai,dronagiri,800,2,1,10,5,85.0
+mumbai,taloja,700,2,1,12,6,65.0
+mumbai,uran,950,2,2,8,10,85.0
+mumbai,chembur colony,1000,2,2,10,25,220.0
+mumbai,sindhi society,1200,3,3,8,28,350.0
+mumbai,collector colony,750,2,1,6,30,145.0
+mumbai,pestom sagar,1100,2,2,12,22,280.0
+mumbai,kurla camp,550,1,1,5,30,95.0
+mumbai,chunabhatti station,620,1,1,8,28,110.0
+mumbai,everard nagar,1350,3,3,14,15,420.0
+mumbai,priyadarshini,1450,3,3,15,12,480.0
+mumbai,sclr road,1100,2,2,18,8,295.0
+mumbai,tilak nagar west,800,2,2,12,20,165.0
+mumbai,vidyavihar,950,2,2,10,25,240.0
+mumbai,ghatkopar west,1100,2,2,14,18,275.0
+mumbai,amrut nagar,780,2,1,12,22,155.0
+mumbai,pant nagar,850,2,2,10,25,195.0
+mumbai,garodia nagar,1400,3,3,8,28,550.0
+mumbai,vikhroli west,1000,2,2,12,15,210.0
+mumbai,surya nagar,720,2,1,9,25,135.0
+mumbai,kanjurmarg village,650,1,1,10,28,115.0
+mumbai,mulund east,1100,2,2,15,12,240.0
+mumbai,navghar road,850,2,2,11,20,185.0
+mumbai,mhada colony,600,1,1,7,25,95.0
+mumbai,bhandup east,750,2,1,10,22,125.0
+mumbai,tata nagar,820,2,2,12,15,145.0
+mumbai,kanjurmarg east,1050,2,2,18,6,225.0
+mumbai,vikhroli station,680,1,1,10,28,135.0
+mumbai,ghatkopar station,900,2,2,12,25,260.0
+mumbai,kurla station,700,2,1,8,30,140.0
+mumbai,sion station,850,2,2,10,28,230.0
+mumbai,dadar station,1200,3,2,6,30,420.0
+mumbai,parel station,1150,2,2,25,10,380.0
+mumbai,byculla station,1000,2,2,15,22,290.0
+mumbai,central station,950,2,2,12,25,320.0
+mumbai,grant road station,800,2,2,14,28,350.0
+mumbai,charni road station,900,2,2,12,30,420.0
+mumbai,marine lines station,1100,2,2,10,28,550.0
+mumbai,churchgate station,1500,3,3,8,30,1100.0
+mumbai,cst station,1300,3,2,5,30,950.0
+mumbai,masjid station,600,1,1,4,30,220.0
+mumbai,sandhurst road station,700,2,1,6,30,240.0
+mumbai,dockyard station,750,2,2,8,28,210.0
+mumbai,reay road station,680,1,1,5,30,165.0
+mumbai,cotton green station,720,2,1,7,28,185.0
+mumbai,sewri station,1100,2,2,22,12,320.0
+mumbai,wadala road station,950,2,2,14,18,260.0
+mumbai,gtb nagar station,800,2,1,10,25,185.0
+mumbai,chunabhatti road,650,1,1,8,28,125.0
+mumbai,kurla harbour,600,1,1,6,30,110.0
+mumbai,tilak nagar harbour,720,2,1,9,25,145.0
+mumbai,chembur harbour,850,2,2,11,22,195.0
+mumbai,govandi harbour,680,1,1,10,25,115.0
+mumbai,mankhurd harbour,550,1,1,8,30,85.0
+mumbai,vashi harbour,1200,3,3,15,15,380.0
+mumbai,sanpada harbour,1100,2,2,12,18,290.0
+mumbai,juinagar harbour,1000,2,2,10,20,220.0
+mumbai,nerul harbour,1300,3,3,14,12,350.0
+mumbai,belapur harbour,1400,3,3,18,10,420.0
+mumbai,seawoods harbour,1500,3,3,22,8,550.0
+mumbai,kharghar harbour,1150,2,2,20,12,210.0
+mumbai,mansarovar,900,2,1,15,10,125.0
+mumbai,khandeshwar,1000,2,2,12,8,145.0
+mumbai,panvel harbour,1250,3,3,10,12,195.0
+mumbai,thane,1200,3,3,15,10,185.0
+mumbai,mulund west park,1450,3,3,25,6,420.0
+mumbai,bhandup complex,880,2,2,12,15,165.0
+mumbai,kanjurmarg west station,950,2,2,18,8,210.0
+mumbai,vikhroli east station,720,2,1,10,25,145.0
+mumbai,ghatkopar west station,1100,2,2,14,20,295.0
+mumbai,vidyavihar east,850,2,2,12,22,195.0
+mumbai,kurla east station,700,2,1,8,30,135.0
+mumbai,sion east station,1000,2,2,11,25,260.0
+mumbai,matunga east station,1200,3,2,9,28,450.0
+mumbai,dadar east station,1400,3,3,12,25,650.0
+mumbai,parel east station,1150,2,2,20,15,390.0
+mumbai,currey road east,900,2,2,15,18,280.0
+mumbai,chinchpokli east,780,2,1,10,25,195.0
+mumbai,byculla east station,1100,2,2,18,22,320.0
+mumbai,sandhurst road east,820,2,2,12,28,245.0
+mumbai,masjid east,580,1,1,6,30,175.0
+mumbai,cst east,1500,3,3,10,30,1250.0
+mumbai,andheri west station,1300,3,3,12,15,480.0
+mumbai,jogeshwari west station,950,2,2,14,18,245.0
+mumbai,goregaon west station,1100,2,2,15,12,285.0
+mumbai,malad west station,1050,2,2,12,15,260.0
+mumbai,kandivali west station,1000,2,2,14,18,230.0
+mumbai,borivali west station,1200,3,2,11,20,380.0
+mumbai,dahisar west station,850,2,1,9,22,175.0
+mumbai,mira road west,750,2,1,10,15,105.0
+mumbai,bhayandar west,850,2,2,12,12,125.0
+mumbai,naigaon west,650,1,1,8,10,65.0
+mumbai,vasai road west,1000,2,2,10,15,115.0
+mumbai,nala sopara west,780,2,1,9,12,75.0
+mumbai,virar west,900,2,2,11,10,95.0
+mumbai,vile parle west station,1450,3,3,8,22,580.0
+mumbai,santacruz west station,1350,3,3,10,25,550.0
+mumbai,khar west station,1600,3,3,9,18,780.0
+mumbai,bandra west station,1500,3,3,12,22,850.0
+mumbai,mahim west station,1100,2,2,7,28,420.0
+mumbai,matunga west station,1250,3,2,8,25,490.0
+mumbai,dadar west station,1400,3,3,10,28,680.0
+mumbai,elphinstone west,1050,2,2,15,12,340.0
+mumbai,lower parel west,1300,3,3,25,8,520.0
+mumbai,mahalaxmi west,1600,3,3,22,10,750.0
+mumbai,mumbai central west,1200,2,2,18,15,480.0
+mumbai,grant road west,1100,2,2,12,25,450.0
+mumbai,charni road west,1350,3,3,14,28,650.0
+mumbai,marine lines west,1550,3,3,10,30,850.0
+mumbai,churchgate west,1800,3,3,12,30,1400.0
+mumbai,andheri east metro,1100,2,2,15,8,310.0
+mumbai,chakala metro,1000,2,2,12,10,280.0
+mumbai,marol metro,950,2,2,10,12,240.0
+mumbai,saki naka metro,850,2,1,14,15,195.0
+mumbai,airport road metro,1200,3,3,18,6,380.0
+mumbai,vikhroli metro,1150,2,2,20,5,290.0
+mumbai,ghatkopar metro,1300,3,3,22,4,420.0
+mumbai,versova metro,1600,3,3,15,10,650.0
+mumbai,dandpada,700,2,1,4,30,220.0
+mumbai,chuim village road,850,2,1,3,30,280.0
+mumbai,gazdar bandh,600,1,1,2,30,165.0
+mumbai,juhu koliwada,900,2,1,4,30,320.0
+mumbai,khar danda village,750,2,1,3,30,210.0
+mumbai,bandra koliwada,800,2,2,5,30,245.0
+mumbai,worli village,1100,2,2,6,30,450.0
+mumbai,sewri koliwada,850,2,1,5,30,195.0
+mumbai,mahim koliwada,950,2,2,4,30,280.0
+mumbai,sion koliwada,1000,2,2,5,30,220.0
+mumbai,trombay,600,1,1,3,30,95.0
+mumbai,anushakti nagar road,1100,2,2,12,20,210.0
+mumbai,mankhurd station road,720,2,1,8,25,115.0
+mumbai,govandi station road,800,2,2,10,22,145.0
+mumbai,chembur station road,950,2,2,12,18,280.0
+mumbai,vikhroli station road,780,2,1,10,25,155.0
+mumbai,kanjurmarg station road,820,2,2,14,20,185.0
+mumbai,bhandup station road,880,2,2,12,22,170.0
+mumbai,mulund station road,1050,2,2,15,18,230.0
+mumbai,thane station road,1200,3,3,12,15,210.0
+mumbai,kalwa,900,2,2,10,12,105.0
+mumbai,mumbra,850,2,1,12,15,75.0
+mumbai,diva,750,2,1,10,10,55.0
+mumbai,kopar,700,2,1,8,12,52.0
+mumbai,dombivli station,950,2,2,9,15,85.0
+mumbai,thakurli,820,2,1,11,10,75.0
+mumbai,kalyan station,1000,2,2,10,12,95.0
+mumbai,shahad,880,2,1,8,15,65.0
+mumbai,ambivli,800,2,1,7,12,55.0
+mumbai,titwala,950,2,2,6,10,65.0
+mumbai,khadavli,750,2,1,5,15,45.0
+mumbai,vasind,850,2,2,4,12,48.0
+mumbai,asangaon,900,2,2,5,10,52.0
+mumbai,atgaon,800,2,1,4,12,42.0
+mumbai,khardi,700,2,1,3,15,38.0
+mumbai,kasara,850,2,2,2,10,45.0
+mumbai,vaitarna,650,1,1,2,20,32.0
+mumbai,saphale,720,2,1,3,15,38.0
+mumbai,kelve road,780,2,1,2,12,42.0
+mumbai,palghar,1000,2,2,4,10,65.0
+mumbai,umroli,850,2,1,3,15,48.0
+mumbai,boisar,1100,2,2,5,8,75.0
+mumbai,vangaon,900,2,1,4,12,55.0
+mumbai,dahanu road,1200,3,3,4,10,85.0
+mumbai,badlapur,950,2,2,7,10,65.0
+mumbai,ambernath,1050,2,2,8,12,75.0
+mumbai,ulhasnagar,1100,3,2,5,25,85.0
+mumbai,vithalwadi,850,2,1,6,15,68.0
+mumbai,karjat,1200,3,3,3,10,75.0
+mumbai,khopoli,1150,3,3,4,12,72.0
+mumbai,sheung,800,2,1,2,15,45.0
+mumbai,bhivpuri road,900,2,2,3,10,55.0
+mumbai,neral,850,2,1,4,8,52.0
+mumbai,shelu,780,2,1,3,12,48.0
+mumbai,vangani,820,2,2,2,10,45.0
+mumbai,lowjee,750,2,1,3,15,42.0
+mumbai,dolavali,700,2,1,2,12,38.0
+mumbai,kelavli,650,1,1,2,15,35.0
+mumbai,palasdari,720,2,1,2,10,38.0
+mumbai,vasai road,1100,2,2,12,12,125.0
+mumbai,naigaon station,800,2,1,10,15,85.0
+mumbai,bhayandar station,950,2,2,14,12,145.0
+mumbai,mira road station,900,2,1,15,10,135.0
+mumbai,dahisar station,1000,2,2,12,18,195.0
+mumbai,borivali station,1250,3,3,15,15,350.0
+mumbai,kandivali station,1100,2,2,18,12,280.0
+mumbai,malad station,1050,2,2,20,10,245.0
+mumbai,goregaon station,1200,3,2,14,18,310.0
+mumbai,jogeshwari station,950,2,1,12,22,195.0
+mumbai,andheri station,1300,3,3,15,15,450.0
+mumbai,vile parle station,1400,3,3,10,25,580.0
+mumbai,santacruz station,1250,3,2,12,22,520.0
+mumbai,khar road station,1500,3,3,14,18,750.0
+mumbai,bandra station,1600,3,3,11,25,850.0
+mumbai,mahim station,1150,2,2,8,28,420.0
+mumbai,matunga station road,1200,2,2,7,30,480.0
+mumbai,dadar station road,1500,3,3,12,25,750.0
+mumbai,parel station road,1100,2,2,22,12,380.0
+mumbai,currey road station,950,2,2,15,15,290.0
+mumbai,chinchpokli station,850,2,1,10,25,210.0
+mumbai,byculla station road,1200,3,3,14,22,350.0
+mumbai,sandhurst road station road,800,2,1,12,28,220.0
+mumbai,masjid station road,600,1,1,6,30,165.0
+mumbai,cst station road,1400,3,3,8,30,1100.0
+mumbai,powai lake,1700,3,3,25,5,650.0
+mumbai,powai hill,1500,3,2,20,8,520.0
+mumbai,powai gardens,1300,3,3,18,10,450.0
+mumbai,chandivali farm road,1100,2,2,15,12,290.0
+mumbai,marol nakoshi,950,2,2,12,15,220.0
+mumbai,saki vihar road,1050,2,2,14,18,245.0
+mumbai,tunga village,850,2,1,10,22,165.0
+mumbai,paspoli,750,2,1,8,25,145.0
+mumbai,iit bombay,1200,2,2,10,30,350.0
+mumbai,nitie,1150,2,2,9,28,310.0
+mumbai,l&t colony,1400,3,3,12,25,480.0
+mumbai,hiranandani zen,1650,3,3,28,4,750.0
+mumbai,hiranandani castle rock,1250,2,2,25,3,580.0
+mumbai,hiranandani regent hill,950,2,1,30,2,420.0
+mumbai,hiranandani atlantis,1800,3,3,35,5,850.0
+mumbai,hiranandani somerset,2200,4,4,32,10,1100.0
+mumbai,hiranandani heritage,2000,4,4,20,15,550.0
+mumbai,hiranandani estate,1500,3,3,18,12,245.0
+mumbai,hiranandani park,1700,3,3,22,10,295.0
+mumbai,lodha bellissimo,2400,4,4,40,5,1500.0
+mumbai,lodha world one,3000,4,5,40,2,2800.0
+mumbai,lodha park,1800,3,3,40,3,1100.0
+mumbai,lodha venezia,1500,3,3,35,6,650.0
+mumbai,lodha altamount,3500,5,5,30,5,4500.0
+mumbai,rustomjee elements,2100,4,4,15,5,1200.0
+mumbai,rustomjee seasons,1400,3,3,20,6,550.0
+mumbai,rustomjee paramount,1600,3,3,18,8,750.0
+mumbai,oberoi woods,1200,3,2,25,12,320.0
+mumbai,oberoi exquisite,1500,3,3,35,8,480.0
+mumbai,oberoi esquire,1800,3,3,40,5,650.0
+mumbai,oberoi springs,1450,3,3,20,15,520.0
+mumbai,kalpataru towers,1100,2,2,25,10,210.0
+mumbai,kalpataru radiance,1350,3,3,30,5,380.0
+mumbai,kalpataru spark,1250,3,3,15,12,450.0
+mumbai,kalpataru avana,2500,4,4,40,3,1400.0
+mumbai,godrej platinum,1300,3,3,25,4,350.0
+mumbai,godrej origins,1500,3,3,15,2,550.0
+mumbai,godrej central,1100,2,2,18,5,280.0
+mumbai,tata raeeda,1050,2,2,20,12,220.0
+mumbai,tata pital,1400,3,3,22,10,340.0
+mumbai,tata crescendos,1600,3,3,25,8,450.0
+mumbai,shapoorji pallonji vicinia,1200,3,3,20,5,310.0
+mumbai,shapoorji pallonji sd corp,1800,3,3,35,4,750.0
+mumbai,indiabulls sky,2200,4,4,40,8,1250.0
+mumbai,indiabulls blu,2800,4,5,40,6,2100.0
+mumbai,kanakia wall street,1400,3,3,12,10,480.0
+mumbai,kanakia levels,1150,2,2,25,5,290.0
+mumbai,kanakia rainforest,1050,2,2,18,8,220.0
+mumbai,nahar cayenne,1100,2,2,22,6,275.0
+mumbai,nahar oliva,1250,3,3,20,10,320.0
+mumbai,raheja artesias,3200,5,5,35,4,2800.0
+mumbai,raheja vivarea,2800,4,4,40,10,2200.0
+mumbai,raheja reflections,1400,3,3,15,12,350.0
+mumbai,raheja ridgewood,1150,2,2,20,8,280.0
+mumbai,marathon era,1300,3,3,25,15,450.0
+mumbai,marathon monte carlo,1600,3,3,35,5,420.0
+mumbai,marathon nextgen,1100,2,2,20,12,320.0
+mumbai,peninsula ashok towers,2100,4,4,30,12,950.0
+mumbai,peninsula ashok gardens,1800,3,3,25,15,750.0
+mumbai,piramal aranya,1650,3,3,40,2,650.0
+mumbai,piramal mahalaxmi,1450,3,2,40,1,720.0
+mumbai,piramal revanta,1150,2,2,35,3,260.0
+mumbai,wadhwa address,1350,3,3,22,8,380.0
+mumbai,wadhwa atmosphere,1100,2,2,30,5,245.0
+mumbai,wadhwa promenade,1000,2,2,18,6,310.0
+mumbai,omkar 1973,3500,5,6,40,5,3500.0
+mumbai,omkar alta monte,1500,3,3,40,7,390.0
+mumbai,omkar ananta,950,2,2,25,10,185.0
+mumbai,sunteck city,1100,2,2,30,5,295.0
+mumbai,sunteck world,850,2,2,20,3,115.0
+mumbai,sunteck signia isle,2400,4,4,25,8,1250.0
+mumbai,sunteck signia waterfront,1800,3,3,20,10,480.0
+mumbai,db orchid woods,1400,3,3,35,12,350.0
+mumbai,db orchid heights,2200,4,4,40,15,950.0
+mumbai,ajmera i land,1250,3,2,30,8,320.0
+mumbai,ajmera aeon,1350,3,3,35,6,380.0
+mumbai,ajmera zeon,1450,3,3,40,5,420.0
+mumbai,hiranandani lighthall,1100,2,2,20,10,350.0
+mumbai,hiranandani fairway,2100,4,4,25,12,850.0
+mumbai,hiranandani tivoli,1300,3,3,18,15,480.0
+mumbai,hiranandani evora,1600,3,3,22,8,650.0
+mumbai,hiranandani amalfi,1800,3,3,25,6,780.0
+mumbai,bandra reclamation,1400,3,3,12,20,650.0
+mumbai,bandra mount mary,2500,4,4,8,25,1850.0
+mumbai,bandra carter road,2200,4,4,10,15,1500.0
+mumbai,bandra pali hill,2800,4,5,6,28,2400.0
+mumbai,bandra sherly rajan,1200,3,2,10,22,480.0
+mumbai,bandra rizvi complex,1100,2,2,12,18,390.0
+mumbai,bandra linking road,1500,3,3,15,20,750.0
+mumbai,andheri lokhandwala,1600,3,3,14,15,550.0
+mumbai,andheri seven bungalows,1400,3,3,10,22,480.0
+mumbai,andheri yari road,1300,3,2,8,25,420.0
+mumbai,andheri versova,1800,3,3,12,18,720.0
+mumbai,andheri jb nagar,1000,2,2,10,28,260.0
+mumbai,andheri saki naka,850,2,1,12,25,185.0
+mumbai,andheri marol,950,2,2,15,20,220.0
+mumbai,worli seaface rd,3000,5,5,25,20,1800.0
+mumbai,worli hill road,2100,4,4,15,25,1100.0
+mumbai,worli naka road,1200,3,3,20,15,450.0
+mumbai,worli g b road,1500,3,3,18,22,650.0
+mumbai,powai hiranandani road,1400,3,3,22,12,480.0
+mumbai,powai chandivali road,1200,3,2,20,15,350.0
+mumbai,powai lake road,1600,3,3,25,10,580.0
+mumbai,chembur station rd,1000,2,2,12,25,245.0
+mumbai,chembur diamond garden rd,1300,3,3,15,18,380.0
+mumbai,chembur s t road,1100,2,2,14,20,220.0
+mumbai,ghatkopar east station rd,900,2,2,12,25,210.0
+mumbai,ghatkopar west station rd,850,2,2,10,28,195.0
+mumbai,mulund west station rd,1100,3,2,14,22,280.0
+mumbai,borivali west station rd,1250,3,3,12,25,420.0
+mumbai,kandivali east station rd,1050,2,2,18,15,225.0
+mumbai,malad west station rd,1000,2,2,15,18,245.0
+mumbai,andheri west station rd,1200,3,3,12,20,380.0
+mumbai,dadar station east rd,1400,3,3,10,28,550.0
+mumbai,parel station west rd,1150,2,2,25,12,390.0
+mumbai,sion east station rd,1050,2,2,12,25,265.0
+mumbai,vashi station rd,1200,3,3,15,15,320.0
+mumbai,kharghar station rd,1100,2,2,20,12,195.0
+mumbai,nerul station rd,1300,3,3,14,18,350.0
+mumbai,belapur station rd,1400,3,3,12,20,410.0
+mumbai,seawoods station rd,1500,3,3,18,15,480.0
+mumbai,airoli station rd,950,2,2,10,12,145.0
+mumbai,koparkhairane station rd,1000,2,2,12,10,165.0
+mumbai,sanpada station rd,1150,2,2,14,8,225.0
+mumbai,juinagar station rd,1050,2,2,11,10,195.0
+mumbai,panvel station rd,1200,3,3,10,12,165.0
+mumbai,thane station rd east,1150,2,2,15,15,185.0
+mumbai,mulund west park road,1350,3,3,18,10,380.0
+mumbai,bhandup west station rd,900,2,2,12,20,165.0
+mumbai,kanjurmarg east rd,1050,2,2,15,12,195.0
+mumbai,vikhroli west station rd,850,2,2,14,22,175.0
+mumbai,ghatkopar east l b s road,1200,3,3,12,25,310.0
+mumbai,vikhroli west l b s road,1100,2,2,15,20,245.0
+mumbai,bhandup west l b s road,950,2,2,18,18,185.0
+mumbai,mulund west l b s road,1300,3,3,20,15,350.0
+mumbai,kurla west l b s road,1000,2,2,12,28,195.0
+mumbai,sion west l b s road,1150,2,2,10,30,285.0
+mumbai,matunga west l b s road,1250,3,2,8,28,420.0
+mumbai,bandra west s v road,1400,3,3,12,25,650.0
+mumbai,khar west s v road,1500,3,3,10,22,780.0
+mumbai,santacruz west s v road,1300,3,3,9,20,550.0
+mumbai,vile parle west s v road,1450,3,3,11,18,610.0
+mumbai,andheri west s v road,1350,3,3,14,15,520.0
+mumbai,jogeshwari west s v road,1100,2,2,18,12,295.0
+mumbai,goregaon west s v road,1200,3,2,20,10,340.0
+mumbai,malad west s v road,1150,2,2,22,8,310.0
+mumbai,kandivali west s v road,1050,2,2,15,12,265.0
+mumbai,borivali west s v road,1300,3,3,12,15,420.0
+mumbai,dahisar west s v road,900,2,2,10,20,185.0
+mumbai,mira road s v road,800,2,1,12,18,115.0
+mumbai,worli naka s v road,1200,3,3,25,12,550.0
+mumbai,byculla east s v road,1100,2,2,18,25,320.0
+mumbai,mumbai central s v road,1250,3,3,15,28,480.0
+mumbai,grant road s v road,1000,2,2,14,30,420.0
+mumbai,charni road s v road,1150,2,2,12,28,510.0
+mumbai,marine lines s v road,1400,3,3,10,30,750.0
+mumbai,churchgate s v road,1600,3,3,8,30,1200.0
+mumbai,cst station s v road,1500,3,3,9,30,1100.0
+mumbai,bandra east bkc road,1800,3,3,15,10,850.0
+mumbai,kurla east bkc road,1400,3,3,12,15,420.0
+mumbai,sion east bkc road,1300,3,2,10,20,380.0
+mumbai,santacruz east bkc road,1500,3,3,14,12,450.0
+mumbai,wadala east bkc road,1250,3,3,18,10,320.0
+mumbai,chembur east bkc road,1100,2,2,20,15,260.0
+mumbai,ghatkopar east bkc road,1200,3,2,22,12,295.0
+mumbai,kalina bkc road,1050,2,2,15,18,245.0
+mumbai,vakola bkc road,950,2,1,12,22,195.0
+mumbai,anushakti nagar road east,1100,2,2,10,25,210.0
+mumbai,trombay road east,1000,2,1,8,28,155.0
+mumbai,govandi road east,850,2,1,12,20,135.0
+mumbai,mankhurd road east,750,1,1,10,25,95.0
+mumbai,vikhroli road east,900,2,2,14,18,185.0
+mumbai,kanjurmarg road east,1050,2,2,18,12,210.0
+mumbai,bhandup road east,800,2,1,15,20,155.0
+mumbai,mulund road east,1150,2,2,20,15,245.0
+mumbai,thane road east,1250,3,3,12,18,220.0
+mumbai,airoli road east,1100,2,2,14,12,165.0
+mumbai,rabale road east,1000,2,1,12,15,145.0
+mumbai,ghansoli road east,1050,2,2,15,10,165.0
+mumbai,koparkhairane road east,1150,3,2,12,12,195.0
+mumbai,vashi road east,1400,3,3,18,15,450.0
+mumbai,sanpada road east,1250,2,2,20,12,320.0
+mumbai,juinagar road east,1100,2,2,15,10,245.0
+mumbai,nerul road east,1350,3,3,18,12,380.0
+mumbai,belapur road east,1450,3,3,15,15,450.0
+mumbai,seawoods road east,1550,3,3,22,10,550.0
+mumbai,kharghar road east,1200,2,2,25,8,245.0
+mumbai,panvel road east,1300,3,3,15,12,195.0

@@ -1,0 +1,636 @@
+city,locality,area_sqft,bhk,bath,floor,age_years,price_lakhs
+kolkata,Ballygunge,2200,4,4,3,15,450.00
+kolkata,New Town,1150,2,2,12,4,72.50
+kolkata,Salt Lake Sector V,1450,3,3,8,10,115.00
+kolkata,Tollygunge,1050,2,2,4,20,65.00
+kolkata,Alipore,3200,5,5,2,25,850.00
+kolkata,Park Street,1800,3,3,5,40,320.00
+kolkata,Rajarhat,1300,3,2,10,3,85.00
+kolkata,Kasba,950,2,2,4,12,58.00
+kolkata,Jadavpur,1100,2,2,3,22,62.00
+kolkata,Behala,1000,2,2,2,18,45.00
+kolkata,Garia,1200,3,2,5,15,68.50
+kolkata,Lake Town,1350,3,3,4,20,95.00
+kolkata,Dum Dum,1100,2,2,6,12,52.00
+kolkata,Kaikhali,1050,2,2,8,5,48.00
+kolkata,Baguiati,950,2,1,4,15,42.50
+kolkata,Salt Lake Sector I,1600,3,3,3,35,160.00
+kolkata,Salt Lake Sector II,1500,3,3,2,30,145.00
+kolkata,Salt Lake Sector III,1700,3,3,3,25,185.00
+kolkata,Em Bypass,1900,3,3,15,8,210.00
+kolkata,Mukundapur,1250,2,2,10,5,78.00
+kolkata,Ruby Area,1400,3,3,7,12,125.00
+kolkata,Bhowanipore,1600,3,3,4,30,195.00
+kolkata,Elgin Road,2000,4,4,5,25,380.00
+kolkata,Southern Avenue,2400,4,4,8,15,550.00
+kolkata,Lansdowne,1850,3,3,3,28,275.00
+kolkata,Prince Anwar Shah Road,1550,3,3,18,6,175.00
+kolkata,Selimpur,1100,2,2,4,18,72.00
+kolkata,Dhakuria,1250,3,2,2,25,88.00
+kolkata,Golf Green,1400,3,3,3,30,110.00
+kolkata,Bansdroni,1000,2,2,4,12,48.00
+kolkata,Narendrapur,1150,2,2,12,2,55.00
+kolkata,Sonarpur,1050,2,2,5,8,42.00
+kolkata,Baruipur,1200,3,2,3,5,38.00
+kolkata,Chinar Park,1250,2,2,9,6,68.00
+kolkata,Action Area 1,1400,3,3,14,5,98.00
+kolkata,Action Area 2,1600,3,3,18,3,115.00
+kolkata,Action Area 3,1800,4,3,22,2,145.00
+kolkata,Sodepur,1100,2,2,4,15,35.00
+kolkata,Madhyamgram,1050,2,2,5,10,32.00
+kolkata,Barasat,1200,3,2,4,12,36.00
+kolkata,Cossipore,1300,3,3,10,8,75.00
+kolkata,Shyam Bazaar,1400,3,2,3,50,110.00
+kolkata,Hatibagan,1100,2,2,2,45,85.00
+kolkata,Ultadanga,1250,2,2,5,20,92.00
+kolkata,Phoolbagan,1500,3,3,8,12,165.00
+kolkata,Kankurgachi,1650,3,3,6,15,190.00
+kolkata,Maniktala,1350,3,2,4,25,120.00
+kolkata,Girish Park,1200,2,2,3,60,95.00
+kolkata,Burrabazar,900,2,1,5,70,115.00
+kolkata,Bowbazar,1100,2,2,4,55,88.00
+kolkata,College Street,1200,3,2,3,65,105.00
+kolkata,Tangra,1300,3,3,12,5,82.00
+kolkata,Topsia,1450,3,3,15,7,95.00
+kolkata,Picnic Garden,1100,2,2,4,12,62.00
+kolkata,Tiljala,1000,2,2,5,10,55.00
+kolkata,Santoshpur,1250,3,2,3,20,78.00
+kolkata,Bagha Jatin,1100,2,2,2,25,58.00
+kolkata,Panchasayar,1400,3,3,5,15,110.00
+kolkata,Kamalgazi,1150,2,2,8,6,52.00
+kolkata,Dakshineswar,1000,2,2,4,20,45.00
+kolkata,Dunlop,1100,2,2,6,18,48.50
+kolkata,Belgharia,1050,2,1,5,22,35.00
+kolkata,Barrackpore,1300,3,2,4,25,42.00
+kolkata,Howrah Maidan,1200,3,2,5,30,65.00
+kolkata,Shibpur,1400,3,3,6,15,85.00
+kolkata,Salkia,1100,2,2,4,28,52.00
+kolkata,Uttarpara,1150,2,2,3,20,40.00
+kolkata,Hindmotor,1000,2,1,4,25,32.00
+kolkata,Konnagar,1050,2,2,5,18,30.00
+kolkata,Rishra,1100,2,2,4,22,28.50
+kolkata,Serampore,1250,3,2,3,30,35.00
+kolkata,Maheshtala,1100,2,2,12,4,38.00
+kolkata,Batanagar,1300,3,2,10,5,45.00
+kolkata,Thakurpukur,1050,2,2,4,12,36.00
+kolkata,Joka,1200,3,2,15,2,52.00
+kolkata,Sarsuna,950,2,1,3,20,32.00
+kolkata,Parnasree Pally,1150,2,2,4,25,55.00
+kolkata,James Long Sarani,1400,3,3,6,15,92.00
+kolkata,Taratala,1200,2,2,5,30,68.00
+kolkata,New Alipore,1800,3,3,4,20,225.00
+kolkata,Chetla,1300,2,2,3,28,110.00
+kolkata,Kalighat,1250,2,2,2,40,145.00
+kolkata,Hazra,1500,3,3,4,35,185.00
+kolkata,Rashbehari Avenue,1700,3,3,5,30,240.00
+kolkata,Gariahat,1600,3,3,4,25,210.00
+kolkata,Haltu,1050,2,2,3,20,54.00
+kolkata,Golf Garden,1350,3,2,2,35,98.00
+kolkata,Bikramgarh,900,2,1,3,30,42.00
+kolkata,Poddar Nagar,1100,2,2,4,25,65.00
+kolkata,Lake Gardens,1550,3,3,5,28,185.00
+kolkata,Jodhpur Park,1800,3,3,3,30,220.00
+kolkata,Dhakuria Station Road,1000,2,1,4,40,58.00
+kolkata,Garfa,1150,2,2,3,22,62.00
+kolkata,Sahapur,1050,2,2,4,25,48.00
+kolkata,Minto Park,2500,4,4,10,20,580.00
+kolkata,Shakespeare Sarani,2200,3,3,8,30,480.00
+kolkata,Camac Street,2100,3,3,6,35,450.00
+kolkata,Loudon Street,2400,4,4,5,25,520.00
+kolkata,Rawdon Street,2300,4,4,4,28,495.00
+kolkata,Hungerford Street,2000,3,3,3,30,420.00
+kolkata,Robinson Street,2150,3,3,2,32,440.00
+kolkata,Park Street,2600,4,4,12,35,580.00
+kolkata,Middleton Street,2200,3,3,10,25,490.00
+kolkata,Wood Street,1900,3,3,6,28,380.00
+kolkata,Short Street,1800,3,3,5,30,360.00
+kolkata,Ho Chi Minh Sarani,2500,4,4,9,20,570.00
+kolkata,Lee Road,2700,4,4,4,18,610.00
+kolkata,Sunny Park,3000,5,5,11,15,750.00
+kolkata,Queens Park,3500,5,5,12,12,950.00
+kolkata,Rainy Park,3200,4,4,8,14,880.00
+kolkata,Broad Street,1450,3,2,4,25,145.00
+kolkata,Bondel Road,1200,2,2,3,20,95.00
+kolkata,Picnic Garden,950,2,1,5,15,55.00
+kolkata,Tiljala,1050,2,2,4,18,62.00
+kolkata,Tangra,1150,2,2,6,12,68.00
+kolkata,Topsia Road,1300,3,3,9,10,95.00
+kolkata,Chetla,1100,2,2,2,30,88.00
+kolkata,Hastings,2400,4,4,3,40,410.00
+kolkata,Kidderpore,1000,2,2,3,35,65.00
+kolkata,Mominpore,900,2,1,4,30,55.00
+kolkata,Garden Reach,1150,3,2,2,25,48.00
+kolkata,Metiabruz,1050,2,2,3,20,42.00
+kolkata,Taratala,1350,3,3,5,22,85.00
+kolkata,Budge Budge Road,1100,2,2,12,4,38.00
+kolkata,Maheshtala,1000,2,1,10,6,35.00
+kolkata,Sarsuna,950,2,2,4,18,45.00
+kolkata,Parnasree,1250,3,2,3,25,78.00
+kolkata,New Alipore,2100,4,4,5,15,310.00
+kolkata,Tollygunge Phari,1150,2,2,4,22,82.00
+kolkata,Lake Gardens,1600,3,3,3,30,195.00
+kolkata,Jodhpur Park,1700,3,3,2,25,225.00
+kolkata,Golf Green,1300,3,2,4,28,105.00
+kolkata,Bijoygarh,950,2,1,3,35,48.00
+kolkata,Bansdroni,1100,2,2,5,18,62.00
+kolkata,Naktala,1200,3,2,4,20,78.00
+kolkata,Garia,1050,2,2,6,15,58.00
+kolkata,Patuli,1350,3,3,8,12,110.00
+kolkata,Mukundapur,1400,3,3,14,5,105.00
+kolkata,Nayabad,1100,2,2,10,4,65.00
+kolkata,Kalikapur,1300,3,2,12,8,95.00
+kolkata,Haltu,1000,2,2,5,25,55.00
+kolkata,Kasba,1250,3,2,4,18,88.00
+kolkata,Dhakuria,1450,3,3,3,30,125.00
+kolkata,Selimpur,1100,2,1,4,28,72.00
+kolkata,Jadavpur Central Road,1200,2,2,3,30,85.00
+kolkata,Santoshpur,1400,3,3,5,15,115.00
+kolkata,Baishnabghata,1300,3,2,6,22,105.00
+kolkata,Bagha Jatin,1150,2,2,3,25,68.00
+kolkata,Regent Park,1250,3,2,4,28,88.00
+kolkata,Ranikuthi,1100,2,2,5,30,75.00
+kolkata,Netaji Nagar,1000,2,1,4,35,52.00
+kolkata,Kudghat,1050,2,2,10,8,65.00
+kolkata,Karunamoyee,1200,3,2,8,12,82.00
+kolkata,Paschim Putiary,1150,2,2,5,15,62.00
+kolkata,Thakurpukur,1000,2,1,4,20,45.00
+kolkata,Joka,1450,3,3,18,2,72.00
+kolkata,Boka,1100,2,2,12,3,48.00
+kolkata,Diamond Harbour Road,1300,3,2,15,6,65.00
+kolkata,Behala Chowrasta,1200,3,2,4,25,68.00
+kolkata,Behala Sakher Bazar,1150,2,2,3,28,58.00
+kolkata,James Long Sarani,1500,3,3,6,15,110.00
+kolkata,Parnasree Pally,1100,2,2,5,22,62.00
+kolkata,Taratala,1300,3,2,4,30,85.00
+kolkata,Mominpore,950,2,2,3,35,55.00
+kolkata,Alipore,3800,6,6,5,20,1200.00
+kolkata,New Alipore,2200,4,4,8,12,380.00
+kolkata,Hastings,2600,4,4,4,40,480.00
+kolkata,Ballygunge Circular Road,2800,4,4,12,25,750.00
+kolkata,Ballygunge Place,1800,3,3,3,35,320.00
+kolkata,Bhowanipore,1650,3,3,5,30,225.00
+kolkata,Hazra Road,1500,3,3,4,40,195.00
+kolkata,Rashbehari Avenue,1400,3,2,3,45,185.00
+kolkata,Southern Avenue,2500,4,4,14,10,650.00
+kolkata,Lake Road,2200,3,3,10,15,550.00
+kolkata,Sarat Bose Road,2000,3,3,8,30,480.00
+kolkata,Lansdowne Road,1850,3,3,5,35,320.00
+kolkata,Elgin Road,1950,3,3,6,28,395.00
+kolkata,Park Street,1700,3,2,8,40,350.00
+kolkata,Camac Street,2400,4,4,12,35,580.00
+kolkata,Shakespeare Sarani,2100,3,3,10,30,520.00
+kolkata,Middleton Row,1800,3,3,6,40,410.00
+kolkata,Russell Street,2200,4,4,5,45,550.00
+kolkata,Free School Street,1400,2,2,4,50,210.00
+kolkata,Rafi Ahmed Kidwai Road,1500,3,2,5,40,245.00
+kolkata,Lenin Sarani,1300,2,2,4,60,185.00
+kolkata,Esplanade,1200,2,1,10,65,225.00
+kolkata,Chandni Chowk,900,2,1,5,70,145.00
+kolkata,Bowbazar,1100,2,2,4,60,115.00
+kolkata,Burrabazar,950,2,1,3,75,135.00
+kolkata,College Street,1050,2,1,2,70,125.00
+kolkata,MG Road,1200,3,2,4,65,145.00
+kolkata,Shyam Bazar,1350,3,2,3,55,120.00
+kolkata,Hatibagan,1150,2,2,2,50,95.00
+kolkata,Sovabazar,1000,2,1,3,60,88.00
+kolkata,Girish Park,1250,2,2,4,55,110.00
+kolkata,Beadon Street,1400,3,2,2,65,135.00
+kolkata,Chittaranjan Avenue,1600,3,3,5,50,245.00
+kolkata,Central Avenue,1500,3,2,6,55,210.00
+kolkata,Maniktala,1300,3,2,4,45,115.00
+kolkata,Kankurgachi,1700,3,3,8,20,195.00
+kolkata,Phoolbagan,1600,3,3,10,15,185.00
+kolkata,Ultadanga,1200,2,2,12,25,105.00
+kolkata,Vip Road,1450,3,3,14,10,98.00
+kolkata,Baguiati,1100,2,2,5,20,52.00
+kolkata,Kaikhali,1250,2,2,10,8,65.00
+kolkata,Dum Dum Park,1350,3,2,4,25,88.00
+kolkata,Dum Dum Station,1050,2,2,5,30,48.00
+kolkata,Nagerbazar,1150,2,2,4,22,55.00
+kolkata,Bangur Avenue,1400,3,3,5,30,125.00
+kolkata,Lake Town,1500,3,3,6,25,145.00
+kolkata,Salt Lake Sector I,1800,3,3,3,35,175.00
+kolkata,Salt Lake Sector II,1700,3,3,2,40,165.00
+kolkata,Salt Lake Sector III,1900,4,3,4,30,210.00
+kolkata,Salt Lake Sector V,1550,3,3,12,10,135.00
+kolkata,New Town Action Area I,1350,3,2,15,8,95.00
+kolkata,New Town Action Area II,1650,3,3,20,5,145.00
+kolkata,New Town Action Area III,2000,4,4,25,2,210.00
+kolkata,Rajarhat Main Road,1200,2,2,10,12,68.00
+kolkata,Chinar Park,1150,2,2,8,10,72.00
+kolkata,Lauhati,1300,3,2,4,5,45.00
+kolkata,Reckjoani,1100,2,2,5,6,38.00
+kolkata,Patharghata,1200,3,2,3,4,42.00
+kolkata,Kestopur,950,2,2,5,15,45.00
+kolkata,Teghoria,1050,2,2,6,12,52.00
+kolkata,Baguiati,1000,2,1,4,18,42.00
+kolkata,Lake Town Block A,1450,3,3,5,25,115.00
+kolkata,Bangur,1300,3,2,4,30,98.00
+kolkata,Shyamnagar,1100,2,2,3,35,55.00
+kolkata,Patipukur,900,2,1,4,40,42.00
+kolkata,Belgachia,1050,2,2,5,45,62.00
+kolkata,Paikpara,1200,3,2,4,30,85.00
+kolkata,Cossipore,1400,3,3,8,25,92.00
+kolkata,Sinthee,1100,2,2,3,28,58.00
+kolkata,Bonhooghly,1250,2,2,12,10,65.00
+kolkata,Dunlop,1300,3,2,15,15,75.00
+kolkata,Dakshineswar,1150,2,2,10,20,55.00
+kolkata,Ariadaha,1000,2,1,5,30,42.00
+kolkata,Belgharia,1100,2,2,4,25,38.00
+kolkata,Agarpara,1050,2,2,5,22,32.00
+kolkata,Sodepur,1200,3,2,4,20,45.00
+kolkata,Khardah,1150,2,2,3,25,35.00
+kolkata,Titagarh,1000,2,1,4,30,28.00
+kolkata,Barrackpore,1400,3,3,5,15,55.00
+kolkata,Noapara,1100,2,2,6,12,42.00
+kolkata,Barasat,1300,3,2,4,10,38.00
+kolkata,Madhyamgram,1200,3,2,5,12,35.00
+kolkata,Hridaypur,1050,2,2,4,15,28.00
+kolkata,Birati,1150,2,2,3,18,48.00
+kolkata,Michael Nagar,1000,2,1,2,20,42.00
+kolkata,Kaikhali,1350,3,3,10,8,75.00
+kolkata,Hatiara,1100,2,2,5,12,52.00
+kolkata,New Town Action Area I,1500,3,3,18,6,125.00
+kolkata,Salt Lake Sector V,1700,3,3,25,4,185.00
+kolkata,College More,1400,3,2,12,10,145.00
+kolkata,Technopolis Area,1600,3,3,20,5,195.00
+kolkata,Em Bypass,2200,4,4,15,8,380.00
+kolkata,Science City Area,2500,4,4,12,10,480.00
+kolkata,Ruby Hospital Area,1800,3,3,10,12,225.00
+kolkata,Tagore Park,1450,3,3,4,15,155.00
+kolkata,Kasba,1350,3,2,5,20,135.00
+kolkata,Rashbehari Connector,1550,3,3,8,15,195.00
+kolkata,Ballygunge Phari,1700,3,3,6,25,285.00
+kolkata,Broad Street,1500,3,3,4,30,225.00
+kolkata,Park Circus,1400,3,2,12,35,165.00
+kolkata,Beniapukur,1100,2,2,5,40,95.00
+kolkata,Entally,1200,2,2,8,30,110.00
+kolkata,Sealdah,1000,2,1,4,50,145.00
+kolkata,Amherst Street,1300,3,2,3,60,165.00
+kolkata,College Street,1150,2,2,2,70,135.00
+kolkata,Canning Street,1000,2,1,5,80,185.00
+kolkata,Dalhousie,1500,3,2,8,85,350.00
+kolkata,Strand Road,1400,2,2,10,75,285.00
+kolkata,Bbd Bagh,1600,3,3,12,90,450.00
+kolkata,Howrah Bridge Area,1100,2,1,5,100,195.00
+kolkata,Shibpur,1500,3,3,6,20,95.00
+kolkata,Howrah Maidan,1300,3,2,5,25,85.00
+kolkata,Salkia,1150,2,2,4,30,65.00
+kolkata,Liluah,1200,2,2,10,15,55.00
+kolkata,Bally,1100,2,2,5,20,48.00
+kolkata,Uttarpara,1050,2,1,4,25,42.00
+kolkata,Hindmotor,1000,2,2,3,30,35.00
+kolkata,Konnagar,1100,2,2,5,22,32.00
+kolkata,Rishra,1150,3,2,4,28,38.00
+kolkata,Serampore,1250,3,3,3,35,45.00
+kolkata,Sheoraphuli,1100,2,2,2,40,32.00
+kolkata,Baidyabati,1050,2,1,3,45,28.00
+kolkata,Bhadreswar,1100,2,2,4,30,25.00
+kolkata,Chandan Nagar,1300,3,2,5,25,52.00
+kolkata,Chinsurah,1200,3,2,3,30,42.00
+kolkata,Bandel,1150,2,2,4,22,35.00
+kolkata,Andul,1000,2,1,2,20,32.00
+kolkata,Sankrail,1100,2,2,10,12,38.00
+kolkata,Uluberia,1250,3,2,4,15,45.00
+kolkata,Santragachi,1350,3,3,8,10,75.00
+kolkata,Behala Flying Club,1400,3,3,4,15,95.00
+kolkata,Sarsuna Main Road,1100,2,2,5,20,58.00
+kolkata,Bakultala,1050,2,2,3,25,52.00
+kolkata,Parnasree Lake,1300,3,2,4,30,92.00
+kolkata,Taratala Road,1200,2,2,8,25,75.00
+kolkata,Jin Jira Bazar,1150,2,2,5,15,62.00
+kolkata,Budge Budge,1400,3,3,10,8,55.00
+kolkata,Maheshtala,1250,3,2,12,5,48.00
+kolkata,Batanagar Riverside,1600,3,3,15,3,75.00
+kolkata,Garden Reach Road,1100,2,2,5,40,65.00
+kolkata,Watgunge,1000,2,1,4,35,58.00
+kolkata,Kidderpore,1200,3,2,3,45,82.00
+kolkata,Khidirpur,1150,2,2,4,50,75.00
+kolkata,Mominpur,1100,2,2,5,30,72.00
+kolkata,Alipore Park Road,3500,5,5,4,20,1100.00
+kolkata,Burdwan Road,3000,4,4,6,25,950.00
+kolkata,Judges Court Road,3200,4,5,10,15,1050.00
+kolkata,Diamond Harbour Road,2400,4,4,12,10,550.00
+kolkata,New Alipore Block G,1800,3,3,4,20,245.00
+kolkata,Tollygunge Circular Road,1600,3,3,5,15,185.00
+kolkata,Deshapriya Park,1900,3,3,3,35,320.00
+kolkata,Purna Das Road,1750,3,3,4,30,295.00
+kolkata,Lake Market,1500,3,2,2,40,225.00
+kolkata,Lake Terrace,2100,4,4,5,25,450.00
+kolkata,Southern Avenue,2800,4,4,15,12,850.00
+kolkata,Keyatala,1850,3,3,4,28,340.00
+kolkata,Hindustan Park,1700,3,3,3,35,310.00
+kolkata,Dover Lane,1600,3,3,2,40,285.00
+kolkata,Gariahat Junction,1450,3,2,4,30,225.00
+kolkata,Ekdalia Road,1350,2,2,3,35,165.00
+kolkata,Ballygunge Gardens,1550,3,3,5,25,210.00
+kolkata,Cornfield Road,1250,2,2,4,30,155.00
+kolkata,Swinhoe Street,1150,2,2,3,35,145.00
+kolkata,Mandeville Gardens,2200,4,4,8,20,480.00
+kolkata,Ballygunge Circular Road,2600,4,4,12,15,620.00
+kolkata,Gurusinghey Road,1400,3,2,5,30,175.00
+kolkata,Palm Avenue,1600,3,3,4,25,225.00
+kolkata,Mayfair Road,2500,4,4,6,20,580.00
+kolkata,Bright Street,1300,2,2,5,35,165.00
+kolkata,Tiljala Lane,1100,2,1,4,40,85.00
+kolkata,Kustia,1050,2,2,3,25,65.00
+kolkata,Picnic Garden Road,1200,3,2,5,20,92.00
+kolkata,Bondel Road,1400,3,3,4,30,135.00
+kolkata,Ballygunge Station,1100,2,1,5,40,95.00
+kolkata,Kankulia Road,1250,2,2,3,35,115.00
+kolkata,Fern Road,1150,2,2,4,40,105.00
+kolkata,Jamir Lane,1000,2,1,3,45,92.00
+kolkata,Ballygunge Terrace,1300,3,2,2,35,125.00
+kolkata,Gariahat Market Area,1200,2,2,4,30,145.00
+kolkata,Bhowanipore Road,1500,3,3,4,40,210.00
+kolkata,Harish Mukherjee Road,1800,3,3,5,35,310.00
+kolkata,Bakul Bagan Road,1400,3,2,3,38,195.00
+kolkata,Beltala Road,1600,3,3,4,30,245.00
+kolkata,Sarat Bose Road,2200,4,4,8,25,480.00
+kolkata,Paddapukur Road,1350,2,2,4,40,165.00
+kolkata,Chakraberia Road,1450,3,2,3,45,185.00
+kolkata,Justice Chandra Madhab Road,1550,3,3,5,35,210.00
+kolkata,Allenby Road,1700,3,3,4,30,265.00
+kolkata,Heysham Road,1650,3,3,5,28,245.00
+kolkata,Woodburn Park,2400,4,4,10,20,550.00
+kolkata,Lansdowne Terrace,1800,3,3,4,35,320.00
+kolkata,Manohar Pukur Road,1400,3,2,3,40,195.00
+kolkata,Hazra Crossing,1300,2,2,5,45,165.00
+kolkata,Kalighat Road,1150,2,1,4,50,125.00
+kolkata,Sadananda Road,1250,2,2,3,40,145.00
+kolkata,Lake View Road,1600,3,3,5,30,210.00
+kolkata,Pratapaditya Road,1400,3,2,4,35,185.00
+kolkata,Rashbehari Crossing,1500,3,3,6,40,245.00
+kolkata,Mudiali,1300,2,2,4,35,145.00
+kolkata,Tollygunge Circular,1450,3,2,5,30,165.00
+kolkata,Prince Ghulam Mohammad Shah Road,1600,3,3,15,10,175.00
+kolkata,Lake Gardens,1800,3,3,5,30,225.00
+kolkata,Gobindapur Road,1200,2,2,4,25,95.00
+kolkata,Golf Green Phase I,1400,3,2,3,35,115.00
+kolkata,Golf Green Phase II,1500,3,3,4,30,135.00
+kolkata,Bijoygarh,1100,2,2,3,40,65.00
+kolkata,Pallishree,1000,2,1,4,35,55.00
+kolkata,Bansdroni Park,1200,3,2,5,25,82.00
+kolkata,Hindustan Park Garia,1150,2,2,4,20,72.00
+kolkata,Naktala,1350,3,3,10,15,98.00
+kolkata,Garia Gardens,1450,3,3,12,12,110.00
+kolkata,Kamalgazi Crossing,1100,2,2,8,10,55.00
+kolkata,Sonarpur Station Road,1050,2,2,5,8,45.00
+kolkata,Narendrapur,1250,3,2,14,5,62.00
+kolkata,Rajpur,1150,2,2,4,20,48.00
+kolkata,Baruipur,1300,3,2,3,15,42.00
+kolkata,Mahamayatala,1200,3,2,10,6,58.00
+kolkata,Garia Station Road,1100,2,2,6,18,52.00
+kolkata,Brahmapur,1050,2,1,4,22,45.00
+kolkata,Bansdroni Metro,1250,3,2,15,5,88.00
+kolkata,Masterda Surja Sen Metro,1100,2,2,12,8,75.00
+kolkata,Gitanjali Metro,1300,3,3,10,12,95.00
+kolkata,Kavi Nazrul Metro,1400,3,3,14,4,115.00
+kolkata,Shahid Khudiram Metro,1200,2,2,18,3,82.00
+kolkata,Kavi Subhash Metro,1500,3,3,22,2,135.00
+kolkata,Patuli Township,1350,3,2,4,20,110.00
+kolkata,Baishnabghata Patuli,1450,3,3,5,15,125.00
+kolkata,Panchasayar,1600,3,3,3,25,145.00
+kolkata,Mukundapur Bypass,1300,2,2,12,10,88.00
+kolkata,Kalikapur,1250,2,2,10,12,95.00
+kolkata,Haltu Main Road,1100,2,1,5,30,68.00
+kolkata,Kasba Bakultala,1200,3,2,4,25,85.00
+kolkata,Rajdanga,1500,3,3,8,15,155.00
+kolkata,Sarat Park,1400,3,3,10,10,135.00
+kolkata,Ruby Park,1600,4,3,12,12,195.00
+kolkata,Purba Diganta,1350,3,2,15,5,115.00
+kolkata,Ajaynagar,1450,3,3,14,8,145.00
+kolkata,Santoshpur Avenue,1550,3,3,4,30,165.00
+kolkata,Survey Park,1700,4,3,5,25,185.00
+kolkata,Baghajatin I Block,1150,2,2,3,40,72.00
+kolkata,Baghajatin Station,1050,2,1,4,35,62.00
+kolkata,Ramgarh,1100,2,2,2,45,58.00
+kolkata,Ganguly Bagan,1250,3,2,4,30,82.00
+kolkata,Naktala Central Road,1300,3,2,5,25,95.00
+kolkata,Behala Tram Depot,1200,3,2,4,35,75.00
+kolkata,Behala Thana,1100,2,2,3,40,65.00
+kolkata,Diamond City West,1400,3,3,18,8,125.00
+kolkata,Diamond City South,1600,3,3,22,5,165.00
+kolkata,South City Area,1800,3,3,30,12,285.00
+kolkata,Urbana,2500,4,4,40,2,550.00
+kolkata,Uniworld City,1650,3,3,25,5,185.00
+kolkata,Siddha Town,1100,2,2,12,6,65.00
+kolkata,Rosedale Garden,1550,3,3,20,8,145.00
+kolkata,Shrachi Greenwood,1450,3,3,15,10,115.00
+kolkata,Elita Garden Vista,1350,3,2,22,4,105.00
+kolkata,Sunrise Symphony,1250,2,2,18,5,88.00
+kolkata,TATA Avenida,1600,3,3,28,2,195.00
+kolkata,New Town Action Area I,1400,3,2,14,12,110.00
+kolkata,New Town Action Area II,1700,3,3,16,10,135.00
+kolkata,New Town Action Area III,2100,4,4,20,5,225.00
+kolkata,Salt Lake City,1800,3,3,3,30,195.00
+kolkata,Salt Lake AE Block,2200,4,4,2,35,285.00
+kolkata,Salt Lake BE Block,2000,3,3,3,40,245.00
+kolkata,Salt Lake CF Block,1600,3,3,4,30,185.00
+kolkata,Salt Lake DL Block,1500,3,2,2,45,165.00
+kolkata,Salt Lake EE Block,1700,3,3,5,30,195.00
+kolkata,Salt Lake FD Block,1900,4,3,3,25,225.00
+kolkata,Salt Lake GD Block,2400,4,4,2,35,310.00
+kolkata,Salt Lake HB Block,1550,3,3,4,40,175.00
+kolkata,Lake Town Vi Block,1450,3,2,5,30,125.00
+kolkata,Bangur Avenue Block B,1350,3,2,4,35,115.00
+kolkata,Kalindi Housing Estate,1100,2,2,10,25,75.00
+kolkata,Sreebhumi,1200,2,2,5,30,88.00
+kolkata,Golaghata,1150,2,2,12,20,95.00
+kolkata,Dakshineswar Railway,1050,2,2,4,25,52.00
+kolkata,Dunlop Bridge Area,1200,3,2,10,18,78.00
+kolkata,Tobin Road,1100,2,2,5,30,65.00
+kolkata,Bonhooghly Lake View,1300,3,3,15,5,92.00
+kolkata,BT Road,1500,3,3,18,10,115.00
+kolkata,Cossipore Gun Factory Area,1400,3,2,6,40,85.00
+kolkata,Sinthee Crossing,1100,2,2,3,45,72.00
+kolkata,Chitpur,1250,3,2,4,60,95.00
+kolkata,Bagbazar,1000,2,1,2,70,115.00
+kolkata,Kumartuli,900,2,1,1,80,105.00
+kolkata,Shobhabazar Metro,1150,2,2,3,55,125.00
+kolkata,Nimtala,1100,2,2,2,75,98.00
+kolkata,Pathuriaghata,1200,3,2,3,80,145.00
+kolkata,Jorasanko,1300,3,3,4,70,185.00
+kolkata,Machua,1050,2,2,5,85,135.00
+kolkata,Burrabazar Market,950,2,1,6,90,165.00
+kolkata,Posta,1100,2,1,4,85,145.00
+kolkata,Barabazar,1150,2,2,3,80,155.00
+kolkata,College Square,1350,3,3,4,65,195.00
+kolkata,Bowbazar Crossing,1200,3,2,5,60,165.00
+kolkata,Madan Street,1400,3,3,4,55,225.00
+kolkata,Lenin Sarani Area,1500,3,2,5,50,265.00
+kolkata,Chandni Market,1000,2,1,8,60,185.00
+kolkata,Dharmatala,1300,2,2,10,50,310.00
+kolkata,Esplanade Crossing,1400,3,2,12,55,350.00
+kolkata,Bentick Street,1100,2,2,15,60,285.00
+kolkata,Old Court House Street,1600,3,3,10,100,550.00
+kolkata,Dalhousie Square,1800,3,3,12,110,680.00
+kolkata,Council House Street,1700,3,2,14,105,620.00
+kolkata,Netaji Subhash Road,1500,2,2,15,95,450.00
+kolkata,Strand Road North,1400,2,1,12,85,380.00
+kolkata,Canning Street North,1250,2,2,10,80,310.00
+kolkata,Clive Row,1350,2,1,14,90,340.00
+kolkata,Lyons Range,1450,2,2,16,100,395.00
+kolkata,India Exchange Place,1550,3,2,18,95,480.00
+kolkata,Mission Row,1650,3,3,12,85,520.00
+kolkata,Kiran Shankar Roy Road,1400,3,2,10,80,410.00
+kolkata,Hare Street,1300,2,2,15,85,350.00
+kolkata,Waterloo Street,1200,2,1,12,75,295.00
+kolkata,Dacres Lane,1100,2,1,14,70,265.00
+kolkata,Fairlie Place,1700,3,3,16,105,650.00
+kolkata,Koilaghat Street,1500,3,2,12,100,550.00
+kolkata,Bankshall Street,1450,2,2,10,95,480.00
+kolkata,Babughat Area,1200,2,1,4,110,320.00
+kolkata,Millennium Park Area,1800,3,3,12,5,385.00
+kolkata,Eden Gardens Area,1600,2,2,15,50,420.00
+kolkata,Red Road Area,2200,3,3,10,30,680.00
+kolkata,Victoria Memorial Area,3000,4,4,8,40,1250.00
+kolkata,Maidan Area,2800,4,3,12,50,950.00
+kolkata,Race Course Area,3500,5,5,15,30,1500.00
+kolkata,Hospital Road Area,1900,3,3,10,40,480.00
+kolkata,Apc Road,1400,3,2,6,50,165.00
+kolkata,Ajc Bose Road,2500,4,4,18,25,650.00
+kolkata,Chowringhee Road,2200,3,3,25,30,850.00
+kolkata,Jawaharlal Nehru Road,2400,4,4,20,35,950.00
+kolkata,Park Street Central,2100,3,3,12,40,750.00
+kolkata,Theatre Road,2800,4,4,15,30,1100.00
+kolkata,Little Russell Street,2000,3,3,10,35,820.00
+kolkata,Albert Road,1900,3,2,8,40,710.00
+kolkata,Lord Sinha Road,2300,4,4,12,30,920.00
+kolkata,Lee Road,2600,4,4,14,25,1050.00
+kolkata,Elgin Road Crossing,2100,3,3,10,30,850.00
+kolkata,Lansdowne Crossing,1800,3,3,8,35,650.00
+kolkata,Sarat Bose Road Crossing,2200,4,4,12,40,780.00
+kolkata,Ashutosh Mukherjee Road,1600,3,2,6,50,380.00
+kolkata,Harish Mukherjee Road Central,1900,3,3,8,40,450.00
+kolkata,Sambhu Nath Pandit Street,1400,3,2,10,35,320.00
+kolkata,Gokhale Road,1500,2,2,12,30,350.00
+kolkata,Bakul Bagan,1450,3,2,6,45,285.00
+kolkata,Beltala,1650,3,3,8,40,380.00
+kolkata,Ritchie Road,1750,3,3,10,35,420.00
+kolkata,Mourya Street,1300,2,2,12,30,285.00
+kolkata,Ballygunge Park,2500,4,4,15,25,850.00
+kolkata,Lovellock Street,2100,3,3,10,30,680.00
+kolkata,Bondel Road Crossing,1500,3,2,12,25,245.00
+kolkata,Ballygunge Station Road,1400,3,2,10,30,210.00
+kolkata,Ballygunge Gardens,1600,3,3,8,35,265.00
+kolkata,Gariahat Junction Area,1500,3,2,10,40,245.00
+kolkata,Hindustan Park Area,1800,3,3,6,35,385.00
+kolkata,Dover Road,2200,4,4,5,30,520.00
+kolkata,Dover Terrace,2000,3,3,4,35,450.00
+kolkata,Garcha Road,1700,3,3,6,40,320.00
+kolkata,Hazra Road Crossing,1600,3,2,8,45,285.00
+kolkata,Rashbehari Avenue Area,1800,3,3,10,40,350.00
+kolkata,Sarat Chatterjee Avenue,2400,4,4,12,25,680.00
+kolkata,Lake Temple Road,2100,3,3,10,30,550.00
+kolkata,Dr Meghnad Saha Sarani,2000,3,3,8,35,480.00
+kolkata,Southern Avenue Lake,3000,5,5,15,20,1100.00
+kolkata,Keyatala Lane,1900,3,3,6,30,420.00
+kolkata,Golpark Area,1700,3,2,10,35,310.00
+kolkata,Kankulia Road Crossing,1500,3,2,8,30,225.00
+kolkata,Dhakuria Crossing,1350,2,2,10,25,165.00
+kolkata,Lake Gardens Station,1400,3,2,6,30,185.00
+kolkata,Jodhpur Park Crossing,1700,3,3,4,35,245.00
+kolkata,Selimpur Road,1300,2,2,5,30,125.00
+kolkata,Golf Green Central,1500,3,3,6,25,145.00
+kolkata,Netaji Nagar Area,1200,2,2,10,30,95.00
+kolkata,Gandhi Colony,1100,2,1,8,35,75.00
+kolkata,Moore Avenue,1450,3,3,12,20,125.00
+kolkata,Kudghat Metro Area,1300,3,2,14,15,105.00
+kolkata,Regent Park Area,1400,3,3,10,18,115.00
+kolkata,Tollygunge Tram Depot Area,1350,2,2,12,25,110.00
+kolkata,Prince Anwar Shah Crossing,1700,3,3,25,5,245.00
+kolkata,South City Mall Area,1900,4,3,35,8,380.00
+kolkata,Dakshinapan Area,1500,3,2,10,20,165.00
+kolkata,Jadavpur 8B Bus Stand Area,1400,3,2,5,30,125.00
+kolkata,Sulekha Area,1200,2,2,4,35,95.00
+kolkata,Pal Bazar Area,1100,2,1,3,40,75.00
+kolkata,Bijoygarh Market Area,1150,2,2,4,45,85.00
+kolkata,Patuli Market Area,1400,3,3,12,12,115.00
+kolkata,Bagha Jatin Market Area,1200,2,2,5,25,92.00
+kolkata,Garfa Main Road Area,1300,3,2,10,20,105.00
+kolkata,Haltu Crossing Area,1250,2,2,8,15,95.00
+kolkata,Ruby Bypass Crossing,1800,3,3,20,10,210.00
+kolkata,Anandapur,1600,3,3,15,8,185.00
+kolkata,Chowbaga,1400,3,2,12,5,92.00
+kolkata,Arupota,1300,3,2,10,4,78.00
+kolkata,Bantala,1500,4,3,2,6,55.00
+kolkata,Topsia Bypass Crossing,1700,3,3,18,10,165.00
+kolkata,Picnic Garden Bypass Crossing,1450,3,3,14,12,115.00
+kolkata,Tiljala Crossing Area,1200,2,2,10,15,85.00
+kolkata,Ballygunge Phari Crossing,1650,3,3,8,25,245.00
+kolkata,Bondel Road Bridge Area,1400,3,2,10,20,185.00
+kolkata,Gariahat Flyover Area,1550,3,3,5,30,225.00
+kolkata,Lake Gardens Flyover Area,1450,3,2,4,35,175.00
+kolkata,Dhakuria Flyover Area,1350,2,2,6,30,145.00
+kolkata,Bijon Setu Area,1250,2,2,8,25,125.00
+kolkata,Jadavpur Flyover Area,1400,3,2,10,20,135.00
+kolkata,Ajaynagar Crossing Area,1600,3,3,15,10,165.00
+kolkata,Patuli Floating Market Area,1500,3,3,12,8,145.00
+kolkata,Santoshpur Lake Area,1400,3,2,10,20,125.00
+kolkata,Bagha Jatin Park Area,1300,3,2,8,25,110.00
+kolkata,Garia 5 Number Bus Stand Area,1200,2,2,10,15,85.00
+kolkata,Kamalgazi Flyover Area,1350,3,2,12,5,75.00
+kolkata,Narendrapur Ramakrishna Mission Area,1500,3,3,10,10,95.00
+kolkata,Sonarpur Bazar Area,1250,3,2,8,15,65.00
+kolkata,Baruipur Railway Station Area,1400,3,3,5,20,55.00
+kolkata,Rajpur Market Area,1300,3,2,6,25,52.00
+kolkata,Garia Station Road Area,1200,2,2,10,20,58.00
+kolkata,Patuli Fire Station Area,1450,3,3,12,12,115.00
+kolkata,Bagha Jatin Station Road Area,1150,2,2,10,30,68.00
+kolkata,Santoshpur Station Road Area,1250,3,2,8,25,88.00
+kolkata,Dhakuria Station Road Area,1100,2,2,6,40,75.00
+kolkata,Lake Gardens Flyover South,1400,3,3,5,30,165.00
+kolkata,Prince Anwar Shah Road North,1600,3,3,18,10,210.00
+kolkata,Prince Anwar Shah Road South,1700,3,3,22,8,245.00
+kolkata,Golf Green Phase III,1600,4,3,12,20,185.00
+kolkata,Tollygunge Metro Area,1500,3,3,15,15,195.00
+kolkata,Kudghat Metro North,1350,3,2,12,20,125.00
+kolkata,Regent Estate,1450,3,3,10,25,115.00
+kolkata,Regent Grove Area,1650,3,3,20,12,185.00
+kolkata,Naktala Metro Area,1400,3,3,14,15,125.00
+kolkata,Bansdroni Metro South,1300,3,2,12,20,110.00
+kolkata,Garia Metro Area North,1250,2,2,15,10,95.00
+kolkata,Garia Metro Area South,1350,3,2,18,8,115.00
+kolkata,New Town Action Area I North,1550,3,3,20,5,155.00
+kolkata,New Town Action Area I South,1650,3,3,25,4,175.00
+kolkata,New Town Action Area II North,1800,4,3,22,3,195.00
+kolkata,New Town Action Area II South,1900,4,4,28,2,225.00
+kolkata,New Town Action Area III North,2200,4,4,30,1,285.00
+kolkata,New Town Action Area III South,2400,4,4,35,1,320.00
+kolkata,Rajarhat Chowmatha Area,1300,3,2,10,12,85.00
+kolkata,Lauhati Crossing Area,1200,2,2,8,15,65.00
+kolkata,Baguiati Crossing Area,1150,2,2,12,20,82.00
+kolkata,Kaikhali Crossing Area,1250,3,2,10,15,88.00
+kolkata,Dum Dum Park Crossing Area,1450,3,3,8,25,115.00
+kolkata,Lake Town Crossing Area,1550,3,3,10,20,145.00
+kolkata,Salt Lake Karunamoyee Area,1700,3,3,12,15,185.00
+kolkata,Salt Lake City Centre Area,2000,4,3,15,10,285.00
+kolkata,Salt Lake Ultadanga Area,1600,3,3,10,20,155.00
+kolkata,Salt Lake Sector V Central,1800,4,3,25,5,225.00
+kolkata,Salt Lake Sector V North,1700,3,3,22,4,195.00
+kolkata,Salt Lake Sector V South,1650,3,3,20,6,185.00
+kolkata,Phoolbagan Crossing Area,1500,3,2,12,15,165.00
+kolkata,Kankurgachi Crossing Area,1600,3,3,10,20,195.00
+kolkata,Maniktala Crossing Area,1400,3,2,8,30,145.00
+kolkata,Girish Park Crossing Area,1300,2,2,6,40,115.00
+kolkata,Shyam Bazar Crossing Area,1450,3,2,5,50,145.00
+kolkata,Hatibagan Crossing Area,1200,2,2,4,45,98.00
+kolkata,Burrabazar Crossing Area,1100,2,1,6,60,165.00
+kolkata,College Street Crossing Area,1250,3,2,5,55,145.00
+kolkata,Bowbazar Crossing Central,1350,3,3,4,50,185.00
+kolkata,Sealdah Station Area,1150,2,2,8,40,125.00
+kolkata,Bhowanipore Crossing Area,1600,3,3,10,30,245.00
+kolkata,Hazra Crossing Central,1500,3,2,12,35,210.00
+kolkata,Rashbehari Crossing Central,1700,3,3,15,25,285.00
+kolkata,Gariahat Crossing Central,1800,3,3,12,20,350.00
+kolkata,Ballygunge Phari Central,1600,3,2,14,25,265.00
+kolkata,Ruby Crossing Central,1900,4,3,25,8,320.00
+kolkata,Patuli Crossing Central,1500,3,3,15,10,145.00
+kolkata,Santoshpur Crossing Central,1400,3,2,12,15,125.00
+kolkata,Bagha Jatin Crossing Central,1300,3,2,10,20,105.00
+kolkata,Garia Crossing Central,1250,2,2,12,15,95.00
+kolkata,Narendrapur Crossing Central,1350,3,2,15,8,82.00
+kolkata,Sonarpur Crossing Central,1200,2,2,10,12,65.00
+kolkata,Baruipur Crossing Central,1150,2,1,8,15,48.00
+kolkata,Rajpur Crossing Central,1100,2,1,6,18,45.00

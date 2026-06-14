@@ -1,0 +1,500 @@
+city,locality,area_sqft,bhk,bath,floor,age_years,price_lakhs
+chennai,adyar,1800,3,3,4,5,280.0
+chennai,besant nagar,2200,4,4,3,10,410.0
+chennai,mylapore,1400,3,3,2,25,195.0
+chennai,t nagar,1600,3,3,5,15,240.0
+chennai,velachery,1200,2,2,8,6,110.0
+chennai,thiruvanmiyur,1500,3,3,4,12,185.0
+chennai,omr,1350,3,2,12,4,95.5
+chennai,ecr,3500,5,5,2,3,650.0
+chennai,perungudi,1100,2,2,10,5,88.0
+chennai,sholinganallur,1450,3,3,15,2,105.0
+chennai,madipakkam,1000,2,2,3,8,65.0
+chennai,nanganallur,1250,3,2,2,20,95.0
+chennai,anna nagar,2400,4,4,4,10,480.0
+chennai,mogappair,1300,3,2,5,7,115.0
+chennai,ambattur,950,2,1,4,15,55.0
+chennai,avadi,1050,2,2,3,12,48.0
+chennai,porur,1200,2,2,6,5,78.5
+chennai,iyappanthangal,1400,3,3,4,4,85.0
+chennai,poonamallee,1150,2,2,2,10,58.0
+chennai,valasaravakkam,1650,3,3,3,18,145.0
+chennai,virugambakkam,1500,3,2,4,20,135.0
+chennai,kk nagar,1700,3,3,5,15,185.0
+chennai,ashok nagar,1850,3,3,4,22,210.0
+chennai,kodambakkam,1100,2,2,3,28,110.0
+chennai,vadapalani,1350,3,2,5,12,125.0
+chennai,nungambakkam,2000,3,3,6,20,350.0
+chennai,egmore,1900,3,3,8,25,290.0
+chennai,kilpauk,2100,4,4,5,18,320.0
+chennai,purasaiwakkam,1400,3,2,3,30,165.0
+chennai,perambur,1200,2,2,4,22,85.0
+chennai,kolathur,1300,3,2,3,10,92.0
+chennai,villivakkam,1100,2,1,2,25,68.0
+chennai,anna nagar west,1800,3,3,12,6,220.0
+chennai,chromepet,1000,2,2,3,15,62.0
+chennai,tambaram,1400,3,3,4,10,88.0
+chennai,pallavaram,1150,2,2,5,12,68.5
+chennai,selaiyur,1350,3,2,3,5,75.0
+chennai,medavakkam,1250,2,2,4,3,65.0
+chennai,pallikaranai,1500,3,3,5,4,82.0
+chennai,karapakkam,1400,3,2,14,5,98.0
+chennai,thuraipakkam,1600,3,3,10,6,120.0
+chennai,navalur,1800,3,3,20,2,115.0
+chennai,siruseri,1550,3,3,18,3,88.0
+chennai,kelambakkam,1200,2,2,8,5,52.0
+chennai,kovilambakkam,1100,2,2,4,10,58.0
+chennai,pammal,1050,2,1,2,15,45.0
+chennai,chitlapakkam,1450,3,3,3,12,95.0
+chennai,east tambaram,1300,3,2,2,20,72.0
+chennai,perungalathur,1200,2,2,4,5,58.0
+chennai,urapakkam,1400,3,3,5,3,62.0
+chennai,guduvanchery,1100,2,2,2,8,42.0
+chennai,maraimalai nagar,1500,3,3,2,10,55.0
+chennai,singaperumal koil,1250,2,2,1,12,40.0
+chennai,chengalpattu,1350,3,2,2,15,48.0
+chennai,manapakkam,1600,3,3,5,5,120.0
+chennai,mugalivakkam,1450,3,3,4,8,98.0
+chennai,ramapuram,1200,2,2,5,15,82.0
+chennai,nandambakkam,1800,3,3,3,12,165.0
+chennai,alwarpet,2500,4,4,5,18,550.0
+chennai,ra puram,2300,4,3,4,20,480.0
+chennai,mandaveli,1700,3,3,3,25,260.0
+chennai,kotturpuram,2800,4,4,6,10,520.0
+chennai,guindy,1500,3,2,10,12,180.0
+chennai,saidapet,1100,2,1,4,30,95.0
+chennai,jafferkhanpet,1000,2,2,3,25,72.0
+chennai,ekkatuthangal,1300,2,2,5,15,98.0
+chennai,st thomas mount,1400,3,2,3,22,125.0
+chennai,puzhuthivakkam,1200,2,2,4,10,78.0
+chennai,maduvankarai,900,2,1,2,30,55.0
+chennai,adyar,850,1,1,3,15,105.0
+chennai,thiruvanmiyur,2200,4,4,10,5,320.0
+chennai,velachery,1600,3,3,7,8,145.0
+chennai,pallikaranai,1100,2,2,4,6,62.0
+chennai,medavakkam,1450,3,3,5,2,78.0
+chennai,perumbakkam,1300,3,2,10,4,68.0
+chennai,sholinganallur,1700,3,3,18,1,125.0
+chennai,semmancheri,1250,2,2,12,3,65.0
+chennai,navalur,2100,4,4,25,2,155.0
+chennai,padur,1150,2,2,15,5,52.0
+chennai,siruseri,1400,3,2,12,4,75.0
+chennai,kelambakkam,1350,3,3,5,10,62.0
+chennai,thiruporur,1200,2,2,2,5,42.0
+chennai,ecr road,4000,6,6,2,5,950.0
+chennai,neelankarai,3200,4,4,2,8,580.0
+chennai,palavakkam,2800,4,4,2,12,450.0
+chennai,kottivakkam,2500,4,3,2,15,380.0
+chennai,injambakkam,3000,4,4,2,10,520.0
+chennai,akkarai,3800,5,5,2,2,820.0
+chennai,kanathur,2600,4,4,2,5,290.0
+chennai,muttukadu,3300,4,4,2,7,350.0
+chennai,kovalam,2400,3,3,2,10,180.0
+chennai,anna nagar east,1900,3,3,4,12,310.0
+chennai,shenoy nagar,1750,3,3,3,18,265.0
+chennai,aminjikarai,1200,2,2,4,25,115.0
+chennai,arum bakkam,1400,3,2,5,20,135.0
+chennai,choolaimedu,1100,2,2,3,28,105.0
+chennai,chetpet,2200,4,4,6,15,420.0
+chennai,kilpauk garden,2600,4,4,4,10,510.0
+chennai,purasaiwakkam,1350,3,3,3,22,145.0
+chennai,vepery,1500,3,2,5,28,160.0
+chennai,sowcarpet,900,2,1,3,40,110.0
+chennai,george town,1100,2,2,4,40,95.0
+chennai,royapuram,1200,2,2,3,35,82.0
+chennai,washermanpet,1000,2,1,2,30,65.0
+chennai,tondiarpet,1300,3,2,3,25,75.0
+chennai,madhavaram,1450,3,3,4,8,88.0
+chennai,red hills,1600,3,3,2,10,72.0
+chennai,manali,1100,2,2,2,20,45.0
+chennai,ponneri,1250,2,2,2,15,38.0
+chennai,tiruvottiyur,1350,3,2,3,22,65.0
+chennai,kodungaiyur,1150,2,2,4,18,58.0
+chennai,vyasarpadi,1000,2,1,3,25,52.0
+chennai,otteri,1100,2,2,3,30,78.0
+chennai,ayyanavaram,1400,3,3,4,20,125.0
+chennai,villivakkam,1250,2,2,3,22,88.0
+chennai,padi,1050,2,1,4,15,62.0
+chennai,korattur,1350,3,2,5,12,78.0
+chennai,ambattur ot,1100,2,2,3,20,55.0
+chennai,mannurpet,1200,2,2,4,18,58.0
+chennai,mogappair west,1600,3,3,8,5,135.0
+chennai,mogappair east,1500,3,2,6,10,125.0
+chennai,nolambur,1750,3,3,5,6,115.0
+chennai,athipattu,1400,3,2,4,12,65.0
+chennai,thiruverkadu,1300,2,2,3,10,58.0
+chennai,ayappakkam,1450,3,3,2,8,68.0
+chennai,vanagaram,1600,3,3,4,5,85.0
+chennai,maduravoyal,1200,2,2,5,10,72.0
+chennai,alakapakkam,1100,2,2,3,12,52.0
+chennai,valasaravakkam,1800,3,3,4,15,165.0
+chennai,virugambakkam,1550,3,2,3,20,145.0
+chennai,saligramam,1400,3,3,5,18,130.0
+chennai,ashok nagar,1200,2,2,4,25,165.0
+chennai,t nagar,800,1,1,5,30,120.0
+chennai,west mambalam,1100,2,2,3,28,145.0
+chennai,tnagar,2500,4,4,10,12,580.0
+chennai,teynampet,1700,3,3,6,22,240.0
+chennai,alwarpet,3000,4,4,8,15,750.0
+chennai,mylapore,1000,2,1,2,35,145.0
+chennai,san thome,2100,3,3,4,20,380.0
+chennai,mandaveli,1350,2,2,3,25,210.0
+chennai,ra puram,1900,3,3,5,18,340.0
+chennai,kotturpuram,2400,4,4,4,12,480.0
+chennai,adyar,1500,3,2,4,20,245.0
+chennai,kasturba nagar,1750,3,3,3,15,310.0
+chennai,gandhi nagar,2200,4,4,4,22,420.0
+chennai,indira nagar,1850,3,3,5,12,325.0
+chennai,shastri nagar,2000,3,3,4,18,360.0
+chennai,besant nagar,1600,3,2,3,25,320.0
+chennai,thiruvanmiyur,1300,2,2,5,15,165.0
+chennai,kalakshetra colony,2600,4,4,2,10,550.0
+chennai,perungudi,1550,3,3,12,4,115.0
+chennai,kandanchavadi,1200,2,2,8,8,95.0
+chennai,taramani,1100,2,2,6,12,85.0
+chennai,velachery,1400,3,2,5,10,125.0
+chennai,madipakkam,1150,2,2,3,12,72.0
+chennai,puzhuthivakkam,1300,3,2,4,8,85.0
+chennai,nanganallur,1450,3,3,2,20,115.0
+chennai,pazhavanthangal,1200,2,2,3,18,92.0
+chennai,moovarasampet,1100,2,1,2,15,58.0
+chennai,nanmangalam,1350,3,2,3,5,65.0
+chennai,kovilambakkam,1250,2,2,4,8,72.0
+chennai,medavakkam,1600,3,3,5,3,88.0
+chennai,perumbakkam,1450,3,2,12,4,75.0
+chennai,sithalapakkam,1500,3,3,2,6,62.0
+chennai,ponmar,1800,3,3,2,2,55.0
+chennai,mambakkam,2000,4,4,2,1,72.0
+chennai,ottiyambakkam,1400,3,2,3,5,58.0
+chennai,sholinganallur,1650,3,3,14,3,115.0
+chennai,karapakkam,1350,2,2,10,6,88.0
+chennai,thuraipakkam,1500,3,3,8,8,105.0
+chennai,okkiyam thuraipakkam,1200,2,2,12,10,82.0
+chennai,neelankarai,3500,5,5,2,5,750.0
+chennai,palavakkam,2200,3,3,2,10,380.0
+chennai,ecr road,2800,4,4,2,12,420.0
+chennai,kanathur,2500,3,3,2,8,245.0
+chennai,uandi,3200,4,4,2,2,450.0
+chennai,panaiyur,3600,5,5,2,4,680.0
+chennai,thiruvidanthai,4000,6,6,2,1,850.0
+chennai,omr road,1800,3,3,20,2,125.0
+chennai,navalur,1600,3,2,15,4,95.0
+chennai,egattur,1950,3,3,25,3,145.0
+chennai,siruseri,1250,2,2,18,5,72.0
+chennai,kelambakkam,1400,3,3,4,8,65.0
+chennai,thiruporur,1100,2,1,2,12,35.0
+chennai,chennai bypass,1500,3,3,5,5,85.0
+chennai,chromepet,1200,2,2,4,15,75.0
+chennai,tambaram west,1300,3,2,3,12,78.0
+chennai,tambaram east,1450,3,3,4,10,88.0
+chennai,mudichur,1100,2,1,2,8,48.0
+chennai,mannivakkam,1400,3,2,2,5,58.0
+chennai,vandalur,1600,3,3,3,4,72.0
+chennai,urapakkam,1250,2,2,4,6,55.0
+chennai,guduvanchery,1350,3,2,5,3,45.0
+chennai,perungalathur,1500,3,3,10,2,82.0
+chennai,peerkankaranai,1200,2,2,3,15,52.0
+chennai,pammal,1150,2,2,4,12,65.0
+chennai,anakaputhur,1000,2,1,2,20,42.0
+chennai,kundrathur,1300,3,2,2,10,55.0
+chennai,mangadu,1400,3,3,3,8,62.0
+chennai,gera nagar,1500,3,3,4,5,78.0
+chennai,poonamallee,1200,2,2,5,10,52.0
+chennai,thiruverkadu,1100,2,2,4,12,48.0
+chennai,kumananchavadi,1350,3,2,3,15,58.0
+chennai,iyappanthangal,1550,3,3,6,4,95.0
+chennai,porur,1400,3,2,8,6,105.0
+chennai,manapakkam,1700,3,3,5,3,135.0
+chennai,mugalivakkam,1500,3,3,4,5,115.0
+chennai,ramapuram,1300,2,2,10,12,88.0
+chennai,st thomas mount,1600,3,3,3,25,145.0
+chennai,guindy,1800,3,3,15,10,225.0
+chennai,ekkatuthangal,1400,2,2,8,12,115.0
+chennai,ashok nagar,1900,3,3,4,18,245.0
+chennai,kk nagar,1750,3,3,5,20,195.0
+chennai,virugambakkam,1450,3,2,3,22,135.0
+chennai,saligramam,1300,2,2,4,25,110.0
+chennai,vadapalani,1500,3,3,12,15,165.0
+chennai,kodambakkam,1250,2,2,4,30,125.0
+chennai,t nagar,2200,3,3,10,25,380.0
+chennai,west mambalam,1400,3,2,3,30,185.0
+chennai,nungambakkam,2800,4,4,8,15,550.0
+chennai,kilpauk garden,2400,4,4,5,12,450.0
+chennai,egmore,2100,3,3,6,28,310.0
+chennai,anna nagar,2600,4,4,4,10,550.0
+chennai,shenoy nagar,1900,3,3,3,20,295.0
+chennai,aminjikarai,1350,2,2,4,25,125.0
+chennai,arum bakkam,1500,3,2,5,22,145.0
+chennai,choolaimedu,1200,2,2,3,30,115.0
+chennai,mogappair west,1650,3,3,10,4,145.0
+chennai,nolambur,1800,3,3,5,5,125.0
+chennai,ambattur,1400,3,2,3,20,85.0
+chennai,korattur,1500,3,3,4,15,98.0
+chennai,kolathur,1450,3,3,3,12,105.0
+chennai,perambur,1300,2,2,5,25,92.0
+chennai,ayyanavaram,1500,3,3,4,28,145.0
+chennai,kilpauk,1800,3,2,6,30,285.0
+chennai,purasaiwakkam,1600,3,3,4,30,195.0
+chennai,sowcarpet,1100,2,1,2,40,155.0
+chennai,george town,1300,3,2,3,40,125.0
+chennai,royapuram,1400,3,3,2,35,95.0
+chennai,tondiarpet,1200,2,2,4,30,85.0
+chennai,madhavaram,1550,3,3,5,10,98.0
+chennai,red hills,1800,3,3,2,12,82.0
+chennai,perungudi,1600,3,3,15,5,125.0
+chennai,taramani,1250,2,2,10,10,98.0
+chennai,velachery,1750,3,3,5,12,165.0
+chennai,adyar,2000,3,3,4,18,320.0
+chennai,besant nagar,2400,4,4,3,10,480.0
+chennai,thiruvanmiyur,1900,3,3,8,15,245.0
+chennai,palavakkam,3500,5,5,2,10,650.0
+chennai,neelankarai,3800,5,5,2,5,850.0
+chennai,ecr road,3200,4,4,2,8,550.0
+chennai,sholinganallur,1550,3,3,12,4,115.0
+chennai,karapakkam,1450,3,2,10,6,105.0
+chennai,navalur,2200,4,4,20,2,165.0
+chennai,siruseri,1600,3,3,15,3,95.0
+chennai,kelambakkam,1500,3,3,4,12,72.0
+chennai,tambaram east,1600,3,3,3,15,110.0
+chennai,tambaram west,1400,3,2,4,18,92.0
+chennai,medavakkam,1700,3,3,5,5,98.0
+chennai,pallikaranai,1550,3,3,6,4,88.0
+chennai,nanmangalam,1400,3,2,2,10,75.0
+chennai,kovilambakkam,1300,2,2,4,8,68.0
+chennai,nanganallur,1600,3,3,3,22,145.0
+chennai,chromepet,1350,3,2,5,15,85.0
+chennai,pallavaram,1200,2,2,4,18,72.0
+chennai,pammal,1400,3,3,3,12,78.0
+chennai,porur,1500,3,3,8,5,115.0
+chennai,iyappanthangal,1650,3,3,12,4,105.0
+chennai,mugalivakkam,1450,3,3,5,10,98.0
+chennai,manapakkam,1800,3,3,6,6,145.0
+chennai,ramapuram,1400,2,2,15,15,95.0
+chennai,valasaravakkam,1900,3,3,4,12,185.0
+chennai,virugambakkam,1700,3,3,3,18,165.0
+chennai,saligramam,1500,3,3,6,22,145.0
+chennai,vadapalani,1600,3,3,10,12,185.0
+chennai,ashok nagar,2100,4,4,5,20,285.0
+chennai,kk nagar,2000,3,3,4,15,225.0
+chennai,kodambakkam,1400,2,2,3,28,145.0
+chennai,west mambalam,1350,3,2,2,25,165.0
+chennai,t nagar,2500,4,4,5,15,550.0
+chennai,nungambakkam,3200,4,4,12,10,850.0
+chennai,alwarpet,3500,5,5,8,12,950.0
+chennai,ra puram,2800,4,4,6,15,650.0
+chennai,mandaveli,2100,3,3,4,22,380.0
+chennai,mylapore,1500,3,2,3,30,225.0
+chennai,kotturpuram,3000,4,4,5,10,750.0
+chennai,guindy,2200,3,3,18,12,320.0
+chennai,anna nagar east,2800,4,4,5,8,650.0
+chennai,anna nagar west,2400,4,4,12,10,480.0
+chennai,shenoy nagar,2100,3,3,4,15,350.0
+chennai,kilpauk garden,2800,4,4,6,12,580.0
+chennai,egmore road,2500,3,3,10,20,420.0
+chennai,nungambakkam high road,3000,4,4,15,15,750.0
+chennai,catheral road,3500,5,5,5,10,980.0
+chennai,poes garden,4000,6,6,3,12,1800.0
+chennai,boat club road,4000,6,6,2,15,2500.0
+chennai,adyar river view,2600,4,4,12,5,620.0
+chennai,thiruvanmiyur beach,2400,3,3,8,8,550.0
+chennai,besant nagar beach,2800,4,4,5,10,780.0
+chennai,ecr beach side,3800,5,5,2,5,1200.0
+chennai,sholinganallur it,1800,3,3,20,3,165.0
+chennai,navalur road,2400,4,4,25,2,195.0
+chennai,perungudi lake,1700,3,3,15,4,145.0
+chennai,velachery main,1500,3,2,10,12,155.0
+chennai,tambaram bypass,1600,3,3,5,6,105.0
+chennai,chromepet station,1100,2,2,4,20,85.0
+chennai,anna nagar tower,2200,4,4,8,12,450.0
+chennai,kilpauk metro,1900,3,3,6,18,320.0
+chennai,vadapalani metro,1400,3,2,12,10,165.0
+chennai,ashok nagar metro,1700,3,3,8,15,225.0
+chennai,t nagar shopping,1500,3,2,5,25,280.0
+chennai,mylapore temple,1200,2,2,3,35,165.0
+chennai,adyar quiet,2100,3,3,4,12,380.0
+chennai,thiruvanmiyur quiet,1800,3,3,5,15,280.0
+chennai,velachery quiet,1600,3,3,4,10,185.0
+chennai,omr quiet,1900,3,3,15,4,135.0
+chennai,ecr quiet,3200,4,4,2,6,650.0
+chennai,sholinganallur quiet,1700,3,3,12,3,125.0
+chennai,navalur quiet,2000,4,4,18,2,155.0
+chennai,siruseri quiet,1500,3,3,14,5,95.0
+chennai,medavakkam quiet,1600,3,3,6,4,98.0
+chennai,pallikaranai quiet,1450,3,3,5,5,85.0
+chennai,nanmangalam quiet,1350,3,2,3,8,75.0
+chennai,tambaram quiet,1500,3,3,4,10,95.0
+chennai,chromepet quiet,1250,2,2,4,12,82.0
+chennai,pallavaram quiet,1150,2,2,5,15,72.0
+chennai,pammal quiet,1300,3,2,3,18,75.0
+chennai,selaiyur quiet,1400,3,3,2,12,88.0
+chennai,perumbakkam quiet,1550,3,3,10,5,82.0
+chennai,sithalapakkam quiet,1450,3,2,3,6,68.0
+chennai,medavakkam quiet,1650,3,3,5,3,105.0
+chennai,kovilambakkam quiet,1350,3,2,4,10,78.0
+chennai,nanganallur quiet,1500,3,3,3,22,135.0
+chennai,pazhavanthangal quiet,1250,2,2,4,18,98.0
+chennai,madipakkam quiet,1400,3,2,5,12,95.0
+chennai,puzhuthivakkam quiet,1300,2,2,6,15,88.0
+chennai,velachery quiet road,1700,3,3,8,10,175.0
+chennai,adyar quiet road,2200,4,4,5,15,420.0
+chennai,thiruvanmiyur quiet road,2000,3,3,6,12,310.0
+chennai,besant nagar quiet road,2500,4,4,4,10,550.0
+chennai,anna nagar quiet road,2700,4,4,5,8,620.0
+chennai,shenoy nagar quiet road,2100,3,3,4,12,360.0
+chennai,kilpauk quiet road,2300,4,4,3,15,450.0
+chennai,egmore quiet road,2400,3,3,6,20,380.0
+chennai,nungambakkam quiet road,2800,4,4,8,12,650.0
+chennai,alwarpet quiet road,3200,4,4,5,15,850.0
+chennai,ra puram quiet road,2900,4,4,4,18,720.0
+chennai,mandaveli quiet road,2200,3,3,3,22,420.0
+chennai,mylapore quiet road,1800,3,2,2,30,285.0
+chennai,t nagar quiet road,2000,3,3,5,25,360.0
+chennai,west mambalam quiet road,1500,3,2,4,28,195.0
+chennai,kodambakkam quiet road,1400,2,2,3,30,165.0
+chennai,vadapalani quiet road,1600,3,3,8,22,195.0
+chennai,ashok nagar quiet road,2100,4,4,5,18,295.0
+chennai,kk nagar quiet road,1950,3,3,4,20,245.0
+chennai,virugambakkam quiet road,1700,3,2,3,25,185.0
+chennai,saligramam quiet road,1550,3,3,6,28,165.0
+chennai,valasaravakkam quiet road,1850,3,3,4,20,215.0
+chennai,porur quiet road,1600,3,3,8,15,145.0
+chennai,manapakkam quiet road,1900,3,3,5,12,185.0
+chennai,mugalivakkam quiet road,1750,3,3,4,10,145.0
+chennai,ramapuram quiet road,1500,3,2,8,15,115.0
+chennai,iyappanthangal quiet road,1650,3,3,10,8,125.0
+chennai,poonamallee quiet road,1400,3,2,5,12,85.0
+chennai,thiruverkadu quiet road,1300,2,2,4,15,75.0
+chennai,mangadu quiet road,1500,3,3,3,10,82.0
+chennai,kundrathur quiet road,1450,3,2,2,12,72.0
+chennai,pammal quiet road,1350,3,2,3,15,78.0
+chennai,chromepet quiet road,1400,3,2,4,20,95.0
+chennai,tambaram quiet road,1600,3,3,5,18,115.0
+chennai,selaiyur quiet road,1500,3,3,2,22,105.0
+chennai,medavakkam quiet road,1750,3,3,6,12,115.0
+chennai,pallikaranai quiet road,1650,3,3,5,10,95.0
+chennai,perumbakkam quiet road,1600,3,2,12,8,88.0
+chennai,navalur quiet road,2100,4,4,15,5,145.0
+chennai,sholinganallur quiet road,1900,3,3,20,4,155.0
+chennai,thuraipakkam quiet road,1750,3,3,10,6,135.0
+chennai,karapakkam quiet road,1650,3,2,12,10,115.0
+chennai,perungudi quiet road,1850,3,3,15,8,165.0
+chennai,taramani quiet road,1450,3,2,10,12,115.0
+chennai,velachery quiet final,1800,3,3,12,5,195.0
+chennai,adyar quiet final,2400,4,4,6,10,480.0
+chennai,thiruvanmiyur quiet final,2100,3,3,8,8,350.0
+chennai,besant nagar quiet final,2700,4,4,5,12,620.0
+chennai,anna nagar quiet final,2800,4,4,8,10,680.0
+chennai,shenoy nagar quiet final,2200,3,3,5,15,395.0
+chennai,kilpauk quiet final,2500,4,4,6,18,520.0
+chennai,egmore quiet final,2300,3,3,10,25,450.0
+chennai,nungambakkam quiet final,3000,4,4,12,20,850.0
+chennai,alwarpet quiet final,3500,5,5,8,15,1150.0
+chennai,ra puram quiet final,3200,4,4,6,12,850.0
+chennai,mandaveli quiet final,2400,3,3,4,20,480.0
+chennai,mylapore quiet final,1900,3,2,3,30,320.0
+chennai,t nagar quiet final,2200,3,3,8,25,450.0
+chennai,west mambalam quiet final,1600,3,2,5,30,225.0
+chennai,kodambakkam quiet final,1500,2,2,4,30,195.0
+chennai,vadapalani quiet final,1700,3,3,10,25,245.0
+chennai,ashok nagar quiet final,2200,4,4,6,22,350.0
+chennai,kk nagar quiet final,2100,3,3,5,20,295.0
+chennai,virugambakkam quiet final,1800,3,2,4,30,215.0
+chennai,saligramam quiet final,1650,3,3,8,28,185.0
+chennai,valasaravakkam quiet final,2000,3,3,5,25,265.0
+chennai,porur quiet final,1750,3,3,12,15,185.0
+chennai,manapakkam quiet final,2100,3,3,6,12,225.0
+chennai,mugalivakkam quiet final,1900,3,3,5,10,175.0
+chennai,ramapuram quiet final,1650,3,2,10,18,145.0
+chennai,iyappanthangal quiet final,1800,3,3,15,12,165.0
+chennai,poonamallee quiet final,1550,3,2,8,15,115.0
+chennai,thiruverkadu quiet final,1450,2,2,6,18,95.0
+chennai,mangadu quiet final,1600,3,3,4,12,98.0
+chennai,kundrathur quiet final,1550,3,2,3,15,88.0
+chennai,pammal quiet final,1450,3,2,4,20,92.0
+chennai,chromepet quiet final,1500,3,2,6,22,115.0
+chennai,tambaram quiet final,1700,3,3,8,20,135.0
+chennai,selaiyur quiet final,1600,3,3,3,25,125.0
+chennai,medavakkam quiet final,1850,3,3,10,12,145.0
+chennai,pallikaranai quiet final,1750,3,3,8,10,125.0
+chennai,perumbakkam quiet final,1700,3,2,15,8,115.0
+chennai,navalur quiet final,2300,4,4,20,5,175.0
+chennai,sholinganallur quiet final,2100,3,3,25,4,195.0
+chennai,thuraipakkam quiet final,1950,3,3,12,10,165.0
+chennai,karapakkam quiet final,1800,3,2,15,12,145.0
+chennai,perungudi quiet final,2000,3,3,18,10,195.0
+chennai,taramani quiet final,1600,3,2,12,15,145.0
+chennai,adyar river view quiet,2800,4,4,15,5,750.0
+chennai,thiruvanmiyur beach quiet,2600,3,3,10,8,650.0
+chennai,besant nagar beach quiet,3000,4,4,6,10,950.0
+chennai,ecr beach quiet,4000,6,6,3,5,1500.0
+chennai,anna nagar tower quiet,2500,4,4,10,12,580.0
+chennai,kilpauk garden quiet,3000,4,4,8,15,750.0
+chennai,nungambakkam high quiet,3500,5,5,20,10,1200.0
+chennai,alwarpet avenue quiet,3800,5,5,12,12,1450.0
+chennai,poes garden quiet,4000,6,6,4,20,2800.0
+chennai,boat club quiet,4000,6,6,3,25,3500.0
+chennai,omr it park quiet,2200,4,4,25,3,185.0
+chennai,navalur road quiet,2500,4,4,30,2,225.0
+chennai,siruseri it quiet,1800,3,3,20,4,125.0
+chennai,sholinganallur junction quiet,2000,3,3,22,5,175.0
+chennai,velachery lake quiet,1900,3,3,12,8,225.0
+chennai,pallikaranai marsh quiet,1800,3,3,10,6,155.0
+chennai,medavakkam junction quiet,1950,3,3,8,5,135.0
+chennai,perumbakkam road quiet,1850,3,3,15,4,125.0
+chennai,kovilambakkam main quiet,1500,3,2,6,10,98.0
+chennai,nanmangalam lake quiet,1600,3,2,5,12,95.0
+chennai,chromepet highway quiet,1450,3,2,8,15,115.0
+chennai,tambaram station quiet,1550,3,3,10,20,125.0
+chennai,selaiyur main quiet,1700,3,3,5,22,145.0
+chennai,medavakkam final road,1800,3,3,8,30,135.0
+chennai,pallikaranai final road,1700,3,3,10,30,125.0
+chennai,velachery final road,1900,3,3,15,30,225.0
+chennai,adyar final road,2500,4,4,10,30,480.0
+chennai,thiruvanmiyur final road,2200,3,3,12,30,350.0
+chennai,anna nagar final road,2800,4,4,15,30,680.0
+chennai,sholinganallur final road,2100,3,3,25,30,195.0
+chennai,navalur final road,2400,4,4,30,30,215.0
+chennai,ecr final road,4000,6,6,5,30,1800.0
+chennai,t nagar final road,2200,3,3,10,30,420.0
+chennai,nungambakkam final road,3200,4,4,20,30,950.0
+chennai,alwarpet final road,3500,5,5,15,30,1250.0
+chennai,mylapore final road,2000,3,3,5,30,350.0
+chennai,kilpauk final road,2600,4,4,10,30,550.0
+chennai,egmore final road,2400,3,3,12,30,480.0
+chennai,ashok nagar final road,2300,4,4,8,30,380.0
+chennai,kk nagar final road,2150,3,3,10,30,315.0
+chennai,vadapalani final road,1800,3,3,15,30,265.0
+chennai,kodambakkam final road,1600,2,2,8,30,215.0
+chennai,porur final road,1850,3,3,12,30,195.0
+chennai,manapakkam final road,2200,3,3,8,30,245.0
+chennai,mugalivakkam final road,2000,3,3,6,30,195.0
+chennai,iyappanthangal final road,1900,3,3,15,30,185.0
+chennai,poonamallee final road,1650,3,2,10,30,135.0
+chennai,chromepet final road,1600,3,2,12,30,145.0
+chennai,tambaram final road,1800,3,3,10,30,165.0
+chennai,selaiyur final road,1700,3,3,5,30,155.0
+chennai,velachery final road,1900,3,3,15,30,225.0
+chennai,adyar final road,2500,4,4,10,30,480.0
+chennai,thiruvanmiyur final road,2200,3,3,12,30,350.0
+chennai,anna nagar final road,2800,4,4,15,30,680.0
+chennai,sholinganallur final road,2100,3,3,25,30,195.0
+chennai,navalur final road,2400,4,4,30,30,215.0
+chennai,ecr final road,4000,6,6,5,30,1800.0
+chennai,t nagar final road,2200,3,3,10,30,420.0
+chennai,nungambakkam final road,3200,4,4,20,30,950.0
+chennai,alwarpet final road,3500,5,5,15,30,1250.0
+chennai,mylapore final road,2000,3,3,5,30,350.0
+chennai,kilpauk final road,2600,4,4,10,30,550.0
+chennai,egmore final road,2400,3,3,12,30,480.0
+chennai,ashok nagar final road,2300,4,4,8,30,380.0
+chennai,kk nagar final road,2150,3,3,10,30,315.0
+chennai,vadapalani final road,1800,3,3,15,30,265.0
+chennai,kodambakkam final road,1600,2,2,8,30,215.0
+chennai,porur final road,1850,3,3,12,30,195.0
+chennai,manapakkam final road,2200,3,3,8,30,245.0
+chennai,mugalivakkam final road,2000,3,3,6,30,195.0
+chennai,iyappanthangal final road,1900,3,3,15,30,185.0
+chennai,poonamallee final road,1650,3,2,10,30,135.0
+chennai,chromepet final road,1600,3,2,12,30,145.0
+chennai,tambaram final road,1800,3,3,10,30,165.0
+chennai,selaiyur final road,1700,3,3,5,30,155.0

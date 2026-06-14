@@ -1,0 +1,500 @@
+city,locality,area_sqft,bhk,bath,floor,age_years,price_lakhs
+jaipur,c scheme,2800,4,4,5,2,360.0
+jaipur,c scheme,1850,3,3,8,12,245.5
+jaipur,civil lines,3200,4,4,2,10,380.0
+jaipur,civil lines,1500,2,2,4,22,165.0
+jaipur,malviya nagar,1200,2,2,3,15,85.0
+jaipur,malviya nagar,2200,4,4,6,4,210.0
+jaipur,vaishali nagar,1650,3,3,9,1,115.0
+jaipur,vaishali nagar,2400,4,4,12,5,185.0
+jaipur,mansarovar,1100,2,2,2,18,62.0
+jaipur,mansarovar,1950,3,3,5,8,125.0
+jaipur,jagatpura,1450,3,3,10,3,88.5
+jaipur,jagatpura,950,2,2,7,6,52.0
+jaipur,raja park,2100,3,3,3,25,180.0
+jaipur,bani park,1750,3,3,4,20,135.0
+jaipur,bani park,2600,4,4,5,12,215.0
+jaipur,ajmer road,1300,2,2,15,2,65.0
+jaipur,ajmer road,1800,3,3,18,4,98.5
+jaipur,tonk road,2050,4,4,11,7,145.0
+jaipur,tonk road,1600,3,2,14,3,110.0
+jaipur,nirman nagar,1550,3,3,4,10,112.0
+jaipur,shyam nagar,2300,4,4,2,12,220.0
+jaipur,gopalpura bypass,1400,3,3,5,9,98.0
+jaipur,pratap nagar,1150,2,2,4,8,55.0
+jaipur,jhotwara,1250,3,2,3,15,62.0
+jaipur,vidhyadhar nagar,1700,3,3,6,11,125.0
+jaipur,bapu nagar,2400,4,4,2,24,285.0
+jaipur,jawahar nagar,1900,3,3,4,18,175.0
+jaipur,gandhi path,1500,3,3,5,2,92.0
+jaipur,sirsi road,1350,3,2,8,4,72.5
+jaipur,kalwar road,1000,2,2,4,6,38.0
+jaipur,sanganer,1100,2,1,2,14,45.0
+jaipur,patrakar colony,1420,3,3,5,5,82.0
+jaipur,durgapura,2000,4,4,3,10,165.0
+jaipur,hanumant nagar,2150,4,4,2,15,195.0
+jaipur,muralipura,1200,2,2,3,20,58.0
+jaipur,chitrakoot,1550,3,3,4,12,118.0
+jaipur,tilak nagar,2500,4,4,3,21,295.0
+jaipur,shastri nagar,1400,3,2,6,15,88.0
+jaipur,sodala,1350,2,2,4,25,95.0
+jaipur,mansarovar extension,1600,3,3,12,2,92.0
+jaipur,agra road,1100,2,2,3,10,48.0
+jaipur,sikar road,1450,3,3,9,7,78.5
+jaipur,vaishali extension,1700,3,3,11,3,110.0
+jaipur,mahindra sez,1300,2,2,15,5,58.0
+jaipur,sidharth nagar,1650,3,3,6,8,125.0
+jaipur,niwaru road,1150,2,2,4,7,42.0
+jaipur,lalkothi,2200,4,4,5,20,240.0
+jaipur,barkat nagar,1300,2,2,2,28,85.0
+jaipur,malviya nagar sector 1,1800,3,3,3,12,155.0
+jaipur,jagatpura (nri colony),2300,4,4,4,5,155.0
+jaipur,c scheme,2950,4,5,7,1,410.0
+jaipur,civil lines,3500,5,6,2,5,490.0
+jaipur,jawahar nagar,1200,2,2,5,22,110.0
+jaipur,mansarovar,1500,3,2,4,12,88.0
+jaipur,malviya nagar,1400,3,3,8,9,115.0
+jaipur,vaishali nagar,2100,3,3,10,4,165.0
+jaipur,bani park,2000,3,3,6,15,160.0
+jaipur,ajmer road,1600,3,3,14,3,82.0
+jaipur,tonk road,1800,3,3,12,6,135.0
+jaipur,jagatpura,1250,2,2,9,5,68.0
+jaipur,raja park,1800,3,2,2,30,165.0
+jaipur,nirman nagar,1900,3,3,3,10,145.0
+jaipur,shyam nagar,1600,3,3,5,12,148.0
+jaipur,pratap nagar,1350,3,3,5,7,72.0
+jaipur,jhotwara,1050,2,2,4,18,48.0
+jaipur,vidhyadhar nagar,1550,3,2,8,10,105.0
+jaipur,bapu nagar,2100,3,3,3,20,245.0
+jaipur,sodala,1100,2,2,3,30,75.0
+jaipur,gopalpura bypass,1800,3,3,4,8,128.0
+jaipur,patrakar colony,1200,2,2,6,4,62.0
+jaipur,sirsi road,1500,3,3,5,5,82.0
+jaipur,kalwar road,950,2,1,2,8,35.0
+jaipur,durgapura,2200,4,4,5,12,185.0
+jaipur,chitra koot,1400,3,3,3,10,112.0
+jaipur,tilak nagar,1900,3,3,4,22,225.0
+jaipur,muralipura,1000,2,2,4,15,45.0
+jaipur,mahindra sez,1100,2,2,10,2,48.0
+jaipur,sikar road,1300,2,2,7,12,65.0
+jaipur,agra road,1400,3,2,4,9,62.0
+jaipur,mansarovar extension,1350,2,2,11,3,72.0
+jaipur,hanumant nagar,1800,3,3,2,18,145.0
+jaipur,shastri nagar,1200,2,2,5,25,82.0
+jaipur,barkat nagar,1100,2,1,2,28,72.0
+jaipur,lalkothi,1600,3,3,4,22,180.0
+jaipur,vaishali extension,1450,3,2,8,5,88.0
+jaipur,sidharth nagar,1400,2,2,7,10,95.0
+jaipur,c scheme,2100,3,3,6,10,285.0
+jaipur,civil lines,2800,4,4,3,15,310.0
+jaipur,malviya nagar,1100,2,2,2,20,78.0
+jaipur,mansarovar,1800,3,3,4,10,110.0
+jaipur,jagatpura,1700,3,3,12,2,105.0
+jaipur,ajmer road,1450,2,2,16,4,75.0
+jaipur,tonk road,2400,4,4,15,5,185.0
+jaipur,vaishali nagar,3200,5,5,10,2,320.0
+jaipur,bani park,1500,2,2,5,18,115.0
+jaipur,raja park,2400,4,3,3,28,210.0
+jaipur,nirman nagar,1350,2,2,5,15,105.0
+jaipur,shyam nagar,2800,5,5,4,8,265.0
+jaipur,gopalpura bypass,1550,3,3,6,12,110.0
+jaipur,pratap nagar,900,2,2,3,10,48.0
+jaipur,jhotwara,1450,3,3,4,20,78.0
+jaipur,vidhyadhar nagar,1950,4,4,7,8,155.0
+jaipur,bapu nagar,1800,3,3,2,25,195.0
+jaipur,jawahar nagar,2500,4,4,6,15,260.0
+jaipur,gandhi path,1650,3,3,8,4,115.0
+jaipur,sirsi road,1200,2,2,10,6,58.0
+jaipur,kalwar road,1150,3,2,3,10,45.0
+jaipur,sanganer,1300,3,2,4,15,62.0
+jaipur,patrakar colony,1550,3,3,7,3,92.0
+jaipur,durgapura,1750,3,3,4,12,145.0
+jaipur,hanumant nagar,1600,3,3,3,20,135.0
+jaipur,muralipura,1450,3,2,2,18,72.0
+jaipur,chitrakoot,1900,3,3,5,6,165.0
+jaipur,tilak nagar,3000,5,5,4,18,350.0
+jaipur,shastri nagar,1650,3,3,4,22,115.0
+jaipur,sodala,1250,2,2,6,30,85.0
+jaipur,mansarovar extension,1950,4,4,14,2,135.0
+jaipur,agra road,1050,2,1,2,12,42.0
+jaipur,sikar road,1700,3,3,10,8,98.0
+jaipur,vaishali extension,1900,4,4,15,3,145.0
+jaipur,mahindra sez,1550,3,3,18,4,82.0
+jaipur,sidharth nagar,1200,2,2,8,9,82.0
+jaipur,niwaru road,1400,3,2,5,8,65.0
+jaipur,lalkothi,2500,4,4,6,15,295.0
+jaipur,barkat nagar,1450,3,2,3,25,110.0
+jaipur,c scheme,1600,2,2,8,15,185.0
+jaipur,civil lines,2100,3,3,4,20,225.0
+jaipur,malviya nagar,2500,4,4,2,10,285.0
+jaipur,mansarovar,1350,2,2,6,14,75.0
+jaipur,jagatpura,1600,3,3,11,4,95.0
+jaipur,ajmer road,1150,2,2,12,6,55.0
+jaipur,tonk road,1400,2,2,10,9,95.0
+jaipur,vaishali nagar,1900,3,3,6,8,145.0
+jaipur,bani park,1850,3,3,5,22,155.0
+jaipur,raja park,1350,2,2,4,30,110.0
+jaipur,nirman nagar,2200,4,4,2,11,185.0
+jaipur,shyam nagar,2450,4,4,3,10,210.0
+jaipur,gopalpura bypass,1700,3,3,4,14,135.0
+jaipur,pratap nagar,1000,2,2,5,12,52.0
+jaipur,jhotwara,1500,3,2,2,18,75.0
+jaipur,vidhyadhar nagar,1350,2,2,7,12,95.0
+jaipur,bapu nagar,2800,5,5,1,28,340.0
+jaipur,jawahar nagar,1600,2,2,5,25,155.0
+jaipur,gandhi path,1800,3,3,10,3,125.0
+jaipur,sirsi road,1100,2,1,5,8,48.0
+jaipur,kalwar road,1400,3,3,4,5,62.0
+jaipur,sanganer,1200,2,2,3,18,52.0
+jaipur,patrakar colony,1700,3,3,8,2,105.0
+jaipur,durgapura,1450,2,2,5,15,115.0
+jaipur,hanumant nagar,1950,3,3,4,12,155.0
+jaipur,muralipura,1150,2,2,4,14,48.0
+jaipur,chitrakoot,1750,3,3,3,11,142.0
+jaipur,tilak nagar,2200,3,3,2,24,245.0
+jaipur,shastri nagar,1300,2,2,6,18,88.0
+jaipur,sodala,1600,3,3,3,22,125.0
+jaipur,mansarovar extension,1200,2,2,15,5,65.0
+jaipur,agra road,1500,3,3,5,6,68.0
+jaipur,sikar road,1200,2,2,12,12,58.0
+jaipur,vaishali extension,2100,4,4,14,1,165.0
+jaipur,mahindra sez,1800,3,3,20,3,95.0
+jaipur,sidharth nagar,1500,3,2,9,5,115.0
+jaipur,niwaru road,1000,2,1,2,10,38.0
+jaipur,lalkothi,1900,3,3,5,25,210.0
+jaipur,barkat nagar,1250,2,2,4,30,92.0
+jaipur,c scheme,3800,6,7,10,8,650.0
+jaipur,civil lines,4000,6,6,4,15,720.0
+jaipur,malviya nagar,3000,5,5,5,10,320.0
+jaipur,mansarovar,2500,4,4,10,12,185.0
+jaipur,jagatpura,2100,4,4,15,3,135.0
+jaipur,ajmer road,2200,4,4,20,5,145.0
+jaipur,tonk road,2800,5,5,25,2,210.0
+jaipur,vaishali nagar,3500,6,6,15,1,380.0
+jaipur,bani park,3000,4,4,10,12,280.0
+jaipur,raja park,2800,4,4,5,20,245.0
+jaipur,nirman nagar,2600,4,4,4,15,210.0
+jaipur,shyam nagar,3200,5,5,6,10,295.0
+jaipur,gopalpura bypass,2400,4,4,8,12,185.0
+jaipur,pratap nagar,1800,3,3,10,5,98.0
+jaipur,jhotwara,2000,4,4,5,12,110.0
+jaipur,vidhyadhar nagar,2200,4,4,12,6,165.0
+jaipur,bapu nagar,3200,5,5,3,18,420.0
+jaipur,jawahar nagar,3000,5,5,5,20,350.0
+jaipur,gandhi path,2100,4,4,12,4,145.0
+jaipur,sirsi road,1900,3,3,15,5,105.0
+jaipur,kalwar road,1800,4,3,5,6,85.0
+jaipur,sanganer,1600,3,3,4,10,82.0
+jaipur,patrakar colony,2100,4,4,12,3,135.0
+jaipur,durgapura,2400,4,4,6,8,215.0
+jaipur,hanumant nagar,2500,4,4,4,15,225.0
+jaipur,muralipura,1700,3,3,5,12,95.0
+jaipur,chitrakoot,2200,4,4,6,10,185.0
+jaipur,tilak nagar,3500,6,6,5,20,450.0
+jaipur,shastri nagar,2000,4,4,8,15,155.0
+jaipur,sodala,1900,3,3,10,25,165.0
+jaipur,mansarovar extension,2200,4,4,18,1,155.0
+jaipur,agra road,1800,3,3,6,10,88.0
+jaipur,sikar road,2100,4,4,14,5,125.0
+jaipur,vaishali extension,2400,4,4,20,2,185.0
+jaipur,mahindra sez,2000,4,4,25,3,115.0
+jaipur,sidharth nagar,2200,4,4,12,6,185.0
+jaipur,niwaru road,1800,4,3,6,8,88.0
+jaipur,lalkothi,3200,5,5,8,20,380.0
+jaipur,barkat nagar,1800,3,3,4,28,155.0
+jaipur,c scheme,1100,1,1,12,10,125.0
+jaipur,civil lines,1200,1,1,5,15,135.0
+jaipur,malviya nagar,850,1,1,10,8,65.0
+jaipur,mansarovar,750,1,1,4,12,42.0
+jaipur,jagatpura,600,1,1,15,5,32.0
+jaipur,ajmer road,700,1,1,20,3,35.0
+jaipur,tonk road,800,1,1,18,6,58.0
+jaipur,vaishali nagar,900,1,1,12,4,68.0
+jaipur,bani park,1000,1,1,6,20,85.0
+jaipur,raja park,800,1,1,3,30,75.0
+jaipur,nirman nagar,950,1,1,5,15,72.0
+jaipur,shyam nagar,1100,1,1,4,12,98.0
+jaipur,gopalpura bypass,850,1,1,6,14,65.0
+jaipur,pratap nagar,650,1,1,8,10,32.0
+jaipur,jhotwara,700,1,1,4,15,35.0
+jaipur,vidhyadhar nagar,900,1,1,10,12,65.0
+jaipur,bapu nagar,1100,1,1,2,25,125.0
+jaipur,jawahar nagar,1000,1,1,5,20,110.0
+jaipur,gandhi path,850,1,1,12,3,58.0
+jaipur,sirsi road,750,1,1,15,5,38.0
+jaipur,kalwar road,600,1,1,5,8,22.0
+jaipur,sanganer,650,1,1,3,12,28.0
+jaipur,patrakar colony,800,1,1,10,4,45.0
+jaipur,durgapura,1000,1,1,5,15,85.0
+jaipur,hanumant nagar,1100,1,1,4,18,95.0
+jaipur,muralipura,750,1,1,4,15,32.0
+jaipur,chitrakoot,900,1,1,6,10,72.0
+jaipur,tilak nagar,1200,1,1,3,25,145.0
+jaipur,shastri nagar,850,1,1,8,22,62.0
+jaipur,sodala,800,1,1,5,30,65.0
+jaipur,mansarovar extension,900,1,1,18,2,55.0
+jaipur,agra road,750,1,1,5,10,32.0
+jaipur,sikar road,850,1,1,12,12,45.0
+jaipur,vaishali extension,1000,1,1,15,3,68.0
+jaipur,mahindra sez,950,1,1,25,4,42.0
+jaipur,sidharth nagar,1050,1,1,10,8,75.0
+jaipur,niwaru road,800,1,1,5,10,32.0
+jaipur,lalkothi,1100,1,1,6,25,115.0
+jaipur,barkat nagar,850,1,1,3,28,68.0
+jaipur,c scheme,2300,3,3,4,15,285.0
+jaipur,civil lines,2500,3,4,2,18,310.0
+jaipur,malviya nagar,1600,3,2,6,10,125.0
+jaipur,mansarovar,1450,3,3,5,15,92.0
+jaipur,jagatpura,1300,3,2,11,5,78.0
+jaipur,ajmer road,1500,3,3,14,4,85.0
+jaipur,tonk road,1900,3,3,12,8,135.0
+jaipur,vaishali nagar,1750,3,3,9,6,135.0
+jaipur,bani park,1900,3,3,5,20,155.0
+jaipur,raja park,1600,3,2,4,30,145.0
+jaipur,nirman nagar,1800,3,3,3,12,155.0
+jaipur,shyam nagar,2100,3,3,4,15,185.0
+jaipur,gopalpura bypass,1650,3,3,5,10,115.0
+jaipur,pratap nagar,1200,3,2,6,8,62.0
+jaipur,jhotwara,1350,3,3,3,15,68.0
+jaipur,vidhyadhar nagar,1600,3,2,8,11,118.0
+jaipur,bapu nagar,2200,3,3,2,22,260.0
+jaipur,jawahar nagar,1800,3,2,5,20,185.0
+jaipur,gandhi path,1550,3,3,7,4,105.0
+jaipur,sirsi road,1450,3,2,9,5,78.0
+jaipur,kalwar road,1250,3,3,4,8,52.0
+jaipur,sanganer,1350,3,2,3,14,65.0
+jaipur,patrakar colony,1600,3,3,6,5,88.0
+jaipur,durgapura,1850,3,3,4,12,155.0
+jaipur,hanumant nagar,2000,3,4,3,16,175.0
+jaipur,muralipura,1400,3,2,2,18,68.0
+jaipur,chitrakoot,1800,3,3,5,9,138.0
+jaipur,tilak nagar,2400,3,3,3,21,265.0
+jaipur,shastri nagar,1500,3,2,5,22,105.0
+jaipur,sodala,1450,3,3,4,28,115.0
+jaipur,mansarovar extension,1800,3,3,12,3,115.0
+jaipur,agra road,1350,3,2,4,11,62.0
+jaipur,sikar road,1550,3,3,8,9,88.0
+jaipur,vaishali extension,1850,3,3,12,4,125.0
+jaipur,mahindra sez,1650,3,3,18,5,85.0
+jaipur,sidharth nagar,1550,3,2,7,10,115.0
+jaipur,niwaru road,1300,3,2,5,7,58.0
+jaipur,lalkothi,2000,3,3,5,24,215.0
+jaipur,barkat nagar,1500,3,2,3,28,125.0
+jaipur,c scheme,3200,5,5,6,5,480.0
+jaipur,civil lines,3800,5,6,3,8,550.0
+jaipur,malviya nagar,2800,5,5,4,10,310.0
+jaipur,mansarovar,2400,5,5,8,12,175.0
+jaipur,jagatpura,2200,5,5,12,4,125.0
+jaipur,ajmer road,2500,5,5,15,3,155.0
+jaipur,tonk road,2600,5,5,20,5,195.0
+jaipur,vaishali nagar,3400,5,6,12,2,350.0
+jaipur,bani park,2900,5,5,8,14,275.0
+jaipur,raja park,2700,5,5,4,22,255.0
+jaipur,nirman nagar,2500,5,5,3,15,220.0
+jaipur,shyam nagar,3100,5,5,5,11,310.0
+jaipur,gopalpura bypass,2300,5,5,6,12,195.0
+jaipur,pratap nagar,1900,5,4,8,6,110.0
+jaipur,jhotwara,2100,5,5,4,14,125.0
+jaipur,vidhyadhar nagar,2300,5,5,10,8,185.0
+jaipur,bapu nagar,3300,5,5,2,20,450.0
+jaipur,jawahar nagar,3100,5,5,4,18,380.0
+jaipur,gandhi path,2200,5,5,10,5,165.0
+jaipur,sirsi road,2000,5,5,12,6,125.0
+jaipur,kalwar road,1900,5,4,4,7,95.0
+jaipur,sanganer,1700,5,5,3,11,92.0
+jaipur,patrakar colony,2200,5,5,10,4,145.0
+jaipur,durgapura,2500,5,5,5,9,245.0
+jaipur,hanumant nagar,2600,5,5,3,15,255.0
+jaipur,muralipura,1800,5,5,4,14,105.0
+jaipur,chitrakoot,2300,5,5,5,11,215.0
+jaipur,tilak nagar,3600,5,6,4,18,480.0
+jaipur,shastri nagar,2100,5,5,6,16,175.0
+jaipur,sodala,2000,5,5,8,25,195.0
+jaipur,mansarovar extension,2300,5,5,14,3,175.0
+jaipur,agra road,1900,5,5,5,10,98.0
+jaipur,sikar road,2200,5,5,12,6,145.0
+jaipur,vaishali extension,2500,5,5,18,2,215.0
+jaipur,mahindra sez,2100,5,5,22,4,125.0
+jaipur,sidharth nagar,2300,5,5,11,7,210.0
+jaipur,niwaru road,1900,5,4,5,9,98.0
+jaipur,lalkothi,3300,5,6,6,18,420.0
+jaipur,barkat nagar,1900,5,5,3,25,185.0
+jaipur,c scheme,1400,2,2,8,15,155.0
+jaipur,civil lines,1600,2,2,4,18,175.0
+jaipur,malviya nagar,1000,2,2,5,12,75.0
+jaipur,mansarovar,900,2,1,3,15,55.0
+jaipur,jagatpura,850,2,2,10,8,48.0
+jaipur,ajmer road,950,2,2,15,4,45.0
+jaipur,tonk road,1100,2,2,12,10,75.0
+jaipur,vaishali nagar,1300,2,2,8,6,85.0
+jaipur,bani park,1450,2,2,5,18,105.0
+jaipur,raja park,1200,2,2,3,25,95.0
+jaipur,nirman nagar,1250,2,2,4,14,92.0
+jaipur,shyam nagar,1400,2,2,5,12,125.0
+jaipur,gopalpura bypass,1100,2,2,6,11,82.0
+jaipur,pratap nagar,850,2,2,7,9,42.0
+jaipur,jhotwara,900,2,1,4,15,38.0
+jaipur,vidhyadhar nagar,1150,2,2,8,13,85.0
+jaipur,bapu nagar,1350,2,2,2,28,145.0
+jaipur,jawahar nagar,1250,2,2,4,22,125.0
+jaipur,gandhi path,1100,2,2,9,5,72.0
+jaipur,sirsi road,950,2,2,12,6,48.0
+jaipur,kalwar road,800,2,1,4,10,28.0
+jaipur,sanganer,850,2,2,2,15,35.0
+jaipur,patrakar colony,1050,2,2,8,5,58.0
+jaipur,durgapura,1300,2,2,4,14,105.0
+jaipur,hanumant nagar,1400,2,2,3,18,115.0
+jaipur,muralipura,950,2,1,4,15,38.0
+jaipur,chitrakoot,1200,2,2,5,10,88.0
+jaipur,tilak nagar,1500,2,2,3,25,165.0
+jaipur,shastri nagar,1100,2,2,6,22,75.0
+jaipur,sodala,1050,2,1,4,30,82.0
+jaipur,mansarovar extension,1150,2,2,15,4,62.0
+jaipur,agra road,950,2,2,4,12,38.0
+jaipur,sikar road,1050,2,2,10,14,52.0
+jaipur,vaishali extension,1250,2,2,12,5,78.0
+jaipur,mahindra sez,1100,2,2,18,6,52.0
+jaipur,sidharth nagar,1250,2,2,9,8,88.0
+jaipur,niwaru road,950,2,1,4,10,38.0
+jaipur,lalkothi,1400,2,2,5,28,135.0
+jaipur,barkat nagar,1100,2,1,2,30,82.0
+jaipur,c scheme,3500,4,4,8,3,450.0
+jaipur,civil lines,3800,4,5,4,12,480.0
+jaipur,malviya nagar,2800,4,4,12,5,295.0
+jaipur,mansarovar,2400,4,4,5,10,165.0
+jaipur,jagatpura,2100,4,4,14,2,125.0
+jaipur,ajmer road,2300,4,4,18,4,135.0
+jaipur,tonk road,2500,4,4,20,5,185.0
+jaipur,vaishali nagar,3200,4,5,15,3,285.0
+jaipur,bani park,2800,4,4,6,15,255.0
+jaipur,raja park,2600,4,3,3,28,245.0
+jaipur,nirman nagar,2400,4,4,4,10,195.0
+jaipur,shyam nagar,3000,4,4,5,8,275.0
+jaipur,gopalpura bypass,2200,4,4,7,12,175.0
+jaipur,pratap nagar,1900,4,4,9,4,115.0
+jaipur,jhotwara,2000,4,3,5,14,110.0
+jaipur,vidhyadhar nagar,2400,4,4,12,7,195.0
+jaipur,bapu nagar,3500,4,5,2,25,480.0
+jaipur,jawahar nagar,3200,4,4,5,18,360.0
+jaipur,gandhi path,2300,4,4,11,3,155.0
+jaipur,sirsi road,2100,4,4,14,4,125.0
+jaipur,kalwar road,2000,4,3,5,6,98.0
+jaipur,sanganer,1800,4,4,4,12,105.0
+jaipur,patrakar colony,2300,4,4,12,2,148.0
+jaipur,durgapura,2600,4,4,6,10,245.0
+jaipur,hanumant nagar,2800,4,4,4,18,265.0
+jaipur,muralipura,1900,4,3,5,15,115.0
+jaipur,chitrakoot,2400,4,4,6,11,195.0
+jaipur,tilak nagar,3800,4,5,4,22,480.0
+jaipur,shastri nagar,2200,4,4,9,18,175.0
+jaipur,sodala,2100,4,3,10,25,185.0
+jaipur,mansarovar extension,2400,4,4,16,2,165.0
+jaipur,agra road,2000,4,4,6,10,105.0
+jaipur,sikar road,2300,4,4,12,8,145.0
+jaipur,vaishali extension,2600,4,4,20,3,205.0
+jaipur,mahindra sez,2200,4,4,25,4,128.0
+jaipur,sidharth nagar,2400,4,4,12,8,225.0
+jaipur,niwaru road,2000,4,3,6,10,105.0
+jaipur,lalkothi,3400,4,5,7,20,410.0
+jaipur,barkat nagar,2000,4,4,4,28,195.0
+jaipur,c scheme,1900,3,3,10,8,245.0
+jaipur,civil lines,2200,3,3,3,15,265.0
+jaipur,malviya nagar,1750,3,3,8,4,155.0
+jaipur,mansarovar,1600,3,3,6,10,115.0
+jaipur,jagatpura,1500,3,3,12,2,98.0
+jaipur,ajmer road,1700,3,3,15,3,92.0
+jaipur,tonk road,2000,3,3,14,5,165.0
+jaipur,vaishali nagar,1950,3,3,10,1,148.0
+jaipur,bani park,1800,3,3,5,18,165.0
+jaipur,raja park,1700,3,3,2,25,165.0
+jaipur,nirman nagar,2000,3,3,4,10,175.0
+jaipur,shyam nagar,2300,3,3,5,12,215.0
+jaipur,gopalpura bypass,1850,3,3,4,12,145.0
+jaipur,pratap nagar,1450,3,3,7,6,78.0
+jaipur,jhotwara,1550,3,3,3,15,75.0
+jaipur,vidhyadhar nagar,1750,3,3,8,9,145.0
+jaipur,bapu nagar,2400,3,3,2,28,295.0
+jaipur,jawahar nagar,2100,3,3,4,22,225.0
+jaipur,gandhi path,1750,3,3,10,2,128.0
+jaipur,sirsi road,1550,3,3,12,4,88.0
+jaipur,kalwar road,1450,3,2,5,5,65.0
+jaipur,sanganer,1500,3,3,3,12,72.0
+jaipur,patrakar colony,1800,3,3,10,1,115.0
+jaipur,durgapura,1950,3,3,5,11,175.0
+jaipur,hanumant nagar,2100,3,3,3,15,185.0
+jaipur,muralipura,1500,3,2,4,15,72.0
+jaipur,chitrakoot,1950,3,3,6,10,165.0
+jaipur,tilak nagar,2600,3,3,3,20,320.0
+jaipur,shastri nagar,1700,3,3,7,18,125.0
+jaipur,sodala,1550,3,3,5,25,125.0
+jaipur,mansarovar extension,1900,3,3,14,1,128.0
+jaipur,agra road,1600,3,3,4,9,72.0
+jaipur,sikar road,1750,3,3,11,7,110.0
+jaipur,vaishali extension,2000,3,3,15,2,145.0
+jaipur,mahindra sez,1900,3,3,22,3,105.0
+jaipur,sidharth nagar,1850,3,3,10,6,155.0
+jaipur,niwaru road,1500,3,2,5,8,68.0
+jaipur,lalkothi,2200,3,3,6,22,255.0
+jaipur,barkat nagar,1700,3,3,3,25,155.0
+jaipur,c scheme,3000,4,4,6,4,395.0
+jaipur,civil lines,3200,4,4,4,10,410.0
+jaipur,malviya nagar,2400,4,4,10,6,265.0
+jaipur,mansarovar,2100,4,4,5,12,155.0
+jaipur,jagatpura,1950,4,4,12,3,115.0
+jaipur,ajmer road,2000,4,4,18,2,125.0
+jaipur,tonk road,2200,4,4,20,4,165.0
+jaipur,vaishali nagar,2800,4,4,12,3,245.0
+jaipur,bani park,2500,4,4,8,15,225.0
+jaipur,raja park,2400,4,4,4,28,225.0
+jaipur,nirman nagar,2300,4,4,5,12,185.0
+jaipur,shyam nagar,2700,4,4,6,10,245.0
+jaipur,gopalpura bypass,2000,4,4,8,10,155.0
+jaipur,pratap nagar,1700,4,4,10,5,95.0
+jaipur,jhotwara,1850,4,4,5,15,105.0
+jaipur,vidhyadhar nagar,2100,4,4,12,8,165.0
+jaipur,bapu nagar,2800,4,4,3,22,350.0
+jaipur,jawahar nagar,2600,4,4,5,20,295.0
+jaipur,gandhi path,2000,4,4,11,4,135.0
+jaipur,sirsi road,1900,4,4,14,5,105.0
+jaipur,kalwar road,1800,4,3,6,7,88.0
+jaipur,sanganer,1600,4,4,5,14,88.0
+jaipur,patrakar colony,2100,4,4,12,3,135.0
+jaipur,durgapura,2300,4,4,7,12,215.0
+jaipur,hanumant nagar,2500,4,4,5,15,225.0
+jaipur,muralipura,1750,4,4,6,12,98.0
+jaipur,chitrakoot,2200,4,4,7,10,185.0
+jaipur,tilak nagar,3200,4,4,4,21,395.0
+jaipur,shastri nagar,2000,4,4,9,18,155.0
+jaipur,sodala,1950,4,3,10,25,165.0
+jaipur,mansarovar extension,2200,4,4,18,2,155.0
+jaipur,agra road,1850,4,4,7,11,95.0
+jaipur,sikar road,2100,4,4,14,6,135.0
+jaipur,vaishali extension,2400,4,4,22,4,185.0
+jaipur,mahindra sez,2100,4,4,28,5,115.0
+jaipur,sidharth nagar,2300,4,4,15,7,195.0
+jaipur,niwaru road,1900,4,3,7,10,92.0
+jaipur,lalkothi,2800,4,4,8,22,345.0
+jaipur,barkat nagar,1850,4,4,5,28,175.0
+jaipur,c scheme,1700,2,2,8,12,185.0
+jaipur,civil lines,1900,2,2,4,15,210.0
+jaipur,malviya nagar,1150,2,2,6,10,85.0
+jaipur,mansarovar,1000,2,2,4,12,65.0
+jaipur,jagatpura,950,2,2,10,6,55.0
+jaipur,ajmer road,1050,2,2,15,4,52.0
+jaipur,tonk road,1200,2,2,12,8,88.0
+jaipur,vaishali nagar,1400,2,2,8,5,95.0
+jaipur,bani park,1600,2,2,5,18,125.0
+jaipur,raja park,1300,2,2,3,25,115.0
+jaipur,nirman nagar,1350,2,2,4,12,105.0
+jaipur,shyam nagar,1500,2,2,5,10,145.0
+jaipur,gopalpura bypass,1200,2,2,6,11,88.0
+jaipur,pratap nagar,950,2,2,7,8,48.0
+jaipur,jhotwara,1000,2,1,4,15,45.0
+jaipur,vidhyadhar nagar,1250,2,2,8,12,95.0
+jaipur,bapu nagar,1450,2,2,2,28,165.0
+jaipur,jawahar nagar,1350,2,2,4,20,145.0
+jaipur,gandhi path,1200,2,2,9,4,82.0
+jaipur,sirsi road,1050,2,2,12,5,55.0
+jaipur,kalwar road,900,2,1,4,8,32.0
+jaipur,sanganer,950,2,2,2,15,42.0
+jaipur,patrakar colony,1150,2,2,8,5,65.0
